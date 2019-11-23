@@ -4,7 +4,8 @@
 # NECESSARY for Prologue to work correctly:
 #
 # theme: jekyll-theme-prologue
-# collections: [sections]
+#remote_theme: chrisbobbe/jekyll-theme-prologue
+#collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -30,34 +31,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-subtitle: Your awesome subtitle
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
+title: Miller Lab
+subtitle: Population Demography at Rice University
+description: Miller Lab Wesbite at Rice University in the Department of BioSciences
+author: Miller Lab 
 email: your-email@example.com
 avatar: assets/images/avatar.jpg
-
+#>- # this means to ignore newlines until "baseurl:"
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "" #jekyll-theme-prologue" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url:
 facebook_url:
-googleplus_url:
+googlescholar_url:
 instagram_url:
 linkedin_url:
-github_url:
+github_url: 
 pinterest_url:
 slack_url:
-dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+# google_analytics: UA-153156219-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
+#theme: jekyll-theme-prologue
 collections: [sections]
