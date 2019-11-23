@@ -1,7 +1,8 @@
 ---
-title: blog
+title: Research
 subtitle: 
-layout: "researchlayout"
+layout: "blog"
 icon: fal fa-seedling
 order: 4
 ---
+## need to switch to research layout soon
