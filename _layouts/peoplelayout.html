@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _peoples = site.peopless | sort: 'order' -%}
+{%- include header.html scrolly_nav=_peoples -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include people.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _people in _peoples -%}
+		{%- include people.html title=_people.title photo=_people.cover-photo photo-alt=_people.cover-photo-alt auto-header=_section.auto-header content=_people.content -%}
+	{%- endfor -%}
+</div>
