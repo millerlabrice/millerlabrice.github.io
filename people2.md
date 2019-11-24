@@ -85,11 +85,11 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/assetts/images/MDonald.jpg" alt="Marion" style="width:100%">
+      <img src="/assets/images/MDonald.jpg" alt="Marion" style="width:100%">
       <div class="container">
         <h2>Marion Donald</h2>
         <p class="title">Graduate Student</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Research interests: asflkasf.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
