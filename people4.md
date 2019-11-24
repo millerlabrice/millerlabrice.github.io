@@ -16,15 +16,15 @@ order: 5
                             <h3 class="text-uppercase">Miller Lab Members </h3>
                             <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p>
                         </div>
-                        <div class="col-md-4 col-sm-4">
+                          <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/MDonald.jpg">
+                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Hi There !</h4>
-                                        <p>Ecologist.....</p>
+                                        <h4>Hello World</h4>
+                                        <p>I love to introduce myself as a hardcore Web Designer.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -34,8 +34,8 @@ order: 5
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Martin Smith</h5>
-                                <span>founder & ceo</span>
+                                <h5>Franklin Harbet</h5>
+                                <span>HR Manager</span>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
