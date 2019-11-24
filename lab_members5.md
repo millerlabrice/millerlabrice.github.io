@@ -258,7 +258,7 @@ body {
 | Michael Saucedo	| Lab manager 2018	| Teacher - NYC| 
 | Michelle Sneck	| PhD 2017	| Data Scientist, USAA| 
 | <a href="https://bradochocki.com"> Brad Ochocki</a>	| PhD 2017	| Data Scientist, Anadarko| 
-| Aldo Compagnoni	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv)| 
+| <a href="https://aldocompagnoni.weebly.com">Aldo Compagnoni</a>	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv)| 
 | Kevin Czachura	| senior thesis 2017	| English instructor, Japan| 
 | Belle Harris | senior thesis 2017| 	| 
 | Andrew Bibian	| MS 2015, Database | Developer 2016-17	Data Scientist, Wood Mackenzie| 
