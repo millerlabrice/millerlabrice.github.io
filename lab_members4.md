@@ -31,12 +31,12 @@ order: 3
 }
 
 .container:hover .overlay {
-  opacity: 1;
+  opacity: .5;
 }
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 12px;
   position: absolute;
   top: 50%;
   left: 50%;
