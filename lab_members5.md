@@ -250,7 +250,7 @@ body {
 
 ### Miller Lab Alumni
 
-| Alum   |      Miller Lab Position      |  Current position |
+| Alum   |      Miller Lab       |  Current Position |
 |:----------:|:-------------:|:------:|
 | Trevor Drees | Senior thesis 2019 | Ph.D. Student - Shea Lab at Penn State |
 | Nakian Kim |   Senior thesis 2018   | Ph.D. Student, Crop Sciences, U. Illinois |
