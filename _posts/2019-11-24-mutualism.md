@@ -1,9 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: Mutualism
 layout: post
-icon: fa-lightbulb
-icon-style: regular
 ---
 See the icon?
 
