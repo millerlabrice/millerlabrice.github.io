@@ -146,7 +146,29 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/tom_nm_final_crop.jpg" alt="team member" class="img-responsive">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Hi There !</h4>
+                                        <p>I love to introduce myself as a hardcore Web Designer.</p>
+                                    </div>
+                                    <div class="s-link">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h5>Martin Smith</h5>
+                                <span>founder & ceo</span>
+                            </div>
+                        </div>
+                         <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive" width="600" height="400">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -168,7 +190,7 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive" width="600" height="400">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -183,19 +205,19 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Franklin Harbet</h5>
-                                <span>HR Manager</span>
+                                <h5>Marion Donald</h5>
+                                <span>Ph.D. Student</span>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive" width="600" height="400">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>I love to design</h4>
-                                        <p>I love to introduce myself as a hardcore Web Designer.</p>
+                                        <h4>Research Interests</h4>
+                                        <p>Josh is interested in using demography to understand how context-dependent mutualisms contribute to setting species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -205,8 +227,8 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Linda Anderson</h5>
-                                <span>Marketing Manager</span>
+                                <h5>Josh Fowler</h5>
+                                <span>Ph.D. Student</span>
                             </div>
                         </div>
                     </div>
