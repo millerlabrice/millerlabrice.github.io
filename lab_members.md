@@ -12,10 +12,6 @@ order: 5
 
 <div class="container">
                     <div class="row">
-                        <div class="heading-title text-center">
-                            <h3 class="text-uppercase">PI </h3>
-                            <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p>
-                        </div>
                           <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
@@ -38,10 +34,6 @@ order: 5
                                 <span>PI</span>
                             </div>
                         </div>
-                        <div class="heading-title text-center">
-                            <h3 class="text-uppercase">Post-docs </h3>
-                            <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p>
-                        </div>
                           <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
@@ -61,16 +53,12 @@ order: 5
                             </div>
                             <div class="team-title">
                                 <h5>Tingfa Dong</h5>
-                                <span>PI</span>
+                                <span>Post-doc</span>
                             </div>
                         </div>
                        
 </div>
 <div class="row">
-                        <div class="heading-title text-center">
-                            <h3 class="text-uppercase">Graduate Students </h3>
-                            <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p>
-                        </div>
                           <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
@@ -90,7 +78,7 @@ order: 5
                             </div>
                             <div class="team-title">
                                 <h5>Marion Donald</h5>
-                                <span>PI</span>
+                                <span>Graduate Student</span>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
@@ -111,8 +99,8 @@ order: 5
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Franklin Harbet</h5>
-                                <span>HR Manager</span>
+                                <h5>Josh Fowler</h5>
+                                <span>Graduate Student</span>
                             </div>
                         </div>
                   
