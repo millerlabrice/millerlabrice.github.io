@@ -173,7 +173,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Sex-specific demographic performance and population dynamics in dioecious plant species under biotic stress (e.g. herbivores, plant-associated microbes) and climate-induced abiotic environment changes.</p>
+                                        <p>Sex-specific demographic performance and population dynamics in dioecious plant species under biotic and abiotic stress.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -217,7 +217,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.</p>
+                                        <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
