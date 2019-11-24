@@ -1,5 +1,5 @@
 ---
-title: People
+title: Lab Members
 icon: fa-th
 order: 5
 ---
@@ -19,7 +19,7 @@ order: 5
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="assets/image/MDonald.jpg">
+                                    <img src="/assets/image/MDonald.jpg">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -41,7 +41,7 @@ order: 5
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="assets/image/MDonald.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/image/MDonald.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
