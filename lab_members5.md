@@ -146,7 +146,7 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/tom_nm_final_crop.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/tom_nm_final_crop.jpg" alt="team member" class="img-responsive"  width="300" height="200">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -161,19 +161,19 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Martin Smith</h5>
-                                <span>founder & ceo</span>
+                                <h5>Tom Miller</h5>
+                                <span>PI</span>
                             </div>
                         </div>
                          <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive" width="600" height="400">
+                                    <img src="/assets/images/tingfa_dong.jpg" alt="team member" class="img-responsive" width="300" height="200">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Hi There !</h4>
-                                        <p>I love to introduce myself as a hardcore Web Designer.</p>
+                                        <h4>Research Interests</h4>
+                                        <p>Tingfa's research primarily concerns sex-specific demographic performance and population dynamics in dioecious plant species under biotic stress (e.g. herbivores, plant-associated microbes) and climate-induced abiotic environment changes.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -183,14 +183,14 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Martin Smith</h5>
-                                <span>founder & ceo</span>
+                                <h5>Tingfa Dong</h5>
+                                <span>Visiting Scholar</span>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive" width="600" height="400">
+                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive" width="300" height="200">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -212,7 +212,7 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive" width="600" height="400">
+                                    <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive" width="300" height="200">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
