@@ -82,7 +82,11 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/assets/images/MDonald.jpg" alt="Marion" width="600" height="400">
     </a>
-    <div class="desc">Marion Donald</div>
+    <div class="desc">
+      <h3> Marion Donald</h3>
+      <p class="title">Ph.D. Student</p>
+      <p> Marion is interested in drivers of microbial symbiont prevalence and diversity within host populations, communities, and metacommunities.</p>
+      </div>
   </div>
 </div>
 
@@ -93,8 +97,8 @@ div.desc {
     </a>
     <div class="desc">
        <h3>Josh Fowler</h3>
-        <p class="title">Graduate Student</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p class="title">Ph.D. Student</p>
+        <p>Josh is interested in using demography to understand how context-dependent mutualisms contribute to setting species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.</p>
         <p>example@example.com</p></div>
   </div>
 </div>
