@@ -19,7 +19,7 @@ order: 5
                           <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/tom_nm_final_crop.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -34,8 +34,8 @@ order: 5
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Franklin Harbet</h5>
-                                <span>HR Manager</span>
+                                <h5>Tom Miller</h5>
+                                <span>PI</span>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
