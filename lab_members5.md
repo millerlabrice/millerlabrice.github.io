@@ -11,7 +11,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1;
     color: #323232;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -139,10 +139,6 @@ body {
 
 <div class="container">
                     <div class="row">
-                        <div class="heading-title text-center">
-                            <h3 class="text-uppercase">Our professionals </h3>
-                            <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p>
-                        </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
@@ -154,9 +150,9 @@ body {
                                         <p>I love to introduce myself as a hardcore Web Designer.</p>
                                     </div>
                                     <div class="s-link">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
                                         <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
                                     </div>
                                 </div>
                             </div>
