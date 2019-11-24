@@ -1,7 +1,7 @@
 ---
-title: Lab Members2
+title: Lab Members
 icon: fa-users
-order: 5
+order: 3
 ---
 <head>
 <style>
@@ -61,9 +61,9 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_5terre.jpg">
-      <img src="/assets/images/MDonald.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="//assets/images/tom_nm_final_crop.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Tom Miller</div>
   </div>
 </div>
 
@@ -71,16 +71,16 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+      <img src="/assets/images/tingfa_dong.jpg" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Tingfa Dong</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+      <img src="/assets/images/MDonald.jpg" alt="Northern Lights" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -88,8 +88,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="/assets/images/josh_fowler.jpg">
+      <img src="i/assets/images/josh_fowler.jpg" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
