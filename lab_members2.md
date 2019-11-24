@@ -61,7 +61,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_5terre.jpg">
-      <img src="//assets/images/tom_nm_final_crop.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="/assets/images/tom_nm_final_crop.jpg" alt="Tom" width="600" height="400">
     </a>
     <div class="desc">Tom Miller</div>
   </div>
@@ -71,7 +71,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_forest.jpg">
-      <img src="/assets/images/tingfa_dong.jpg" alt="Forest" width="600" height="400">
+      <img src="/assets/images/tingfa_dong.jpg" alt="Tingfa" width="600" height="400">
     </a>
     <div class="desc">Tingfa Dong</div>
   </div>
@@ -80,18 +80,18 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_lights.jpg">
-      <img src="/assets/images/MDonald.jpg" alt="Northern Lights" width="600" height="400">
+      <img src="/assets/images/MDonald.jpg" alt="Marion" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Marion Donald</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/images/josh_fowler.jpg">
-      <img src="i/assets/images/josh_fowler.jpg" alt="Mountains" width="600" height="400">
+      <img src="/assets/images/josh_fowler.jpg" alt="Josh" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Josh Fowler</div>
   </div>
 </div>
 
