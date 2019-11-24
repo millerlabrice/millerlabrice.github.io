@@ -1,7 +1,7 @@
 ---
 title: People
 subtitle: 
-layout: "blog"
+layout: "peoplelayout"
 icon: fad fa-users
 order: 3
 ---
