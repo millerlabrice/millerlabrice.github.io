@@ -36,7 +36,7 @@ subtitle: Population Demography at Rice University
 description: Miller Lab Wesbite at Rice University in the Department of BioSciences
 author: Miller Lab 
 email: tom.miller@rice.edu
-#avatar: assets/images/avatar.jpg
+avatar: assets/images/Rice_Owl_Flat_Black.jpg
 #>- # this means to ignore newlines until "baseurl:"
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" #jekyll-theme-prologue" # the subpath of your site, e.g. /blog
