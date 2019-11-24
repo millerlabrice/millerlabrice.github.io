@@ -152,7 +152,7 @@ body {
                                     <div class="s-link">
                                         <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
                                         <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
+                                        <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google-scholar"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -211,9 +211,9 @@ body {
                                         <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability. Study system: grass and fungal endophytes.</p>
                                     </div>
                                     <div class="s-link">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://github.com/joshuacfowler"><i class="fab fa-github"></i></a>
                                         <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#"><i class="fab fa-google-scholar"></i></a>
                                     </div>
                                 </div>
                             </div>
