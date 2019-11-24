@@ -35,7 +35,7 @@ title: Miller Lab
 subtitle: Population Demography at Rice University
 description: Miller Lab Wesbite at Rice University in the Department of BioSciences
 author: Miller Lab 
-email: your-email@example.com
+email: tom.miller@rice.edu
 avatar: assets/images/avatar.jpg
 #>- # this means to ignore newlines until "baseurl:"
 # You'll want to customize url and baseurl for your own site:
@@ -54,7 +54,7 @@ pinterest_url:
 slack_url:
 
 # Google Analytics Tracking ID goes here:
- #google_analytics: UA-153156219-1
+ google_analytics: UA-153156219-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
