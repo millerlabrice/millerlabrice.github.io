@@ -194,8 +194,8 @@ body {
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Hello World</h4>
-                                        <p>I love to introduce myself as a hardcore Web Designer.</p>
+                                        <h4>Research Interests</h4>
+                                        <p>Drivers of microbial symbiont prevalence and diversity within host populations, communities, and metacommunities.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
