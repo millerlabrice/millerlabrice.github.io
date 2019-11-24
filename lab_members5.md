@@ -225,7 +225,7 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/Jr_cropped.jpg" alt="team member" class="img-responsive" width="200" height="300">
+                                    <img src="/assets/images/Jr_cropped.jpg" alt="team member" class="img-responsive" width="200" height="250">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
