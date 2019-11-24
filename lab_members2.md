@@ -133,16 +133,14 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <div class="container">
     <a target="_blank" href="/assets/images/josh_fowler.jpg">
       <img src="/assets/images/josh_fowler.jpg" alt="Josh" width="600" height="400">
-    
-    
+    </a>
+  <div class="container">
   <div class="overlay">
     <div class="text">Josh is interested in using demography to understand how context-dependent mutualisms contribute to setting species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.</div>
   </div>
 </div>
-</a>
     <div class="desc">Josh Fowler</div>
         <h5> Ph.D. Student</h5></div>
   </div>
