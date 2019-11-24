@@ -1,6 +1,5 @@
 ---
-title: People2
-layout: "people_template"
+title: People3
 icon: fa-th
 order: 5
 ---
