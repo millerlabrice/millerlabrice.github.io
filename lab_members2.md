@@ -91,7 +91,11 @@ div.desc {
     <a target="_blank" href="/assets/images/josh_fowler.jpg">
       <img src="/assets/images/josh_fowler.jpg" alt="Josh" width="600" height="400">
     </a>
-    <div class="desc">Josh Fowler</div>
+    <div class="desc">
+       <h2>Josh Fowler</h2>
+        <p class="title">Graduate Student</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p></div>
   </div>
 </div>
 
