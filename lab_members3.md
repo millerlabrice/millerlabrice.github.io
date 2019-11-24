@@ -66,10 +66,23 @@ order: 5
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Jane" style="width:100%">
+      <img src="/assets/images/tom_nm_final_crop.jpg" alt="Tom" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
+        <h2>Tom Miller</h2>
+        <p class="title">PI</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>tom.miller@rice.edu</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/tingfa_dong.jpg" alt="tingfa_dong" style="width:100%">
+      <div class="container">
+        <h2>Tingfa Dong</h2>
+        <p class="title">Visiting Scholar</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
@@ -79,23 +92,22 @@ order: 5
 
   <div class="column">
     <div class="card">
-      <img src="img2.jpg" alt="Mike" style="width:100%">
+      <img src="/assets/images/MDonald.jpg" alt="Marion" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
+        <h2>Marion Donald</h2>
+        <p class="title">Graduate Student</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
-
   <div class="column">
     <div class="card">
-      <img src="img3.jpg" alt="John" style="width:100%">
+      <img src="/assets/images/josh_fowler.jpg" alt="Josh" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
+        <h2>Josh Fowler</h2>
+        <p class="title">Graduate Student</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
