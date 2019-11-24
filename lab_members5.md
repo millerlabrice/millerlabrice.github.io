@@ -9,9 +9,9 @@ order: 3
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    line-height: 1.5;
+    line-height: 1;
     color: #323232;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
