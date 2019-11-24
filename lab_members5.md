@@ -151,7 +151,6 @@ body {
                                     </div>
                                     <div class="s-link">
                                         <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
                                         <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
                                     </div>
                                 </div>
@@ -171,10 +170,13 @@ body {
                                         <h4>Research Interests</h4>
                                         <p>Sex-specific demographic performance and population dynamics in dioecious plant species under biotic and abiotic stress.</p>
                                     </div>
+                                     <div class="s-link">
+                                        <a href="https://scholar.google.com/citations?user=H7RzIz8AAAAJ&hl=zh-CN"><i class="fab fa-google"></i></a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tingfa Dong</h5>
+                                <h5>Tingfa Dong</h5>.  
                                 <span>Visiting Scholar</span>
                             </div>
                         </div>
