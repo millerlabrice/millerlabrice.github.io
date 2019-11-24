@@ -190,8 +190,8 @@ body {
                                     </div>
                                     <div class="s-link">
                                         <a href="https://github.com/mdonald"><i class="fab fa-github"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="mdonald.github.io"><i class="fas fa-star"></i></a>
+                                        <a href="https://scholar.google.com/citations?hl=en&user=RcXMO0MAAAAJ&view_op=list_works&gmla=AJsN-F6z0ekQnOgA8Gr0RyokKIB2_n9t1Na2wYVZtfD_LfEPKsYAjYvnJj1tKGmXqL48fhnvV5ZIswSt4QgxblzU4p5ScBEoCkJF8ttFHxPAqePLMJiDM0M"><i class="fa fa-google"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +212,7 @@ body {
                                     </div>
                                     <div class="s-link">
                                         <a href="https://github.com/joshuacfowler"><i class="fab fa-github"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="joshuacfowler.github.io"><i class="fas fa-star"></i></a>
                                         <a href="#"><i class="fa fa-google"></i></a>
                                     </div>
                                 </div>
