@@ -3,8 +3,6 @@ title: People2
 icon: fa-th
 order: 5
 ---
-<!DOCTYPE html>
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -112,4 +110,3 @@ html {
 </div>
 
 </body>
-</html>
