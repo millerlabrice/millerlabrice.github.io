@@ -233,9 +233,6 @@ body {
                                         <p>Squirrels</p>
                                     </div>
                                     <div class="s-link">
-                                        <a href="#"><i class="fab fa-github"></i></a>
-                                        <a href="#"><i class="fas fa-star"></i></a>
-                                        <a href="#"><i class="fab fa-google"></i></a>
                                     </div>
                                 </div>
                             </div>
