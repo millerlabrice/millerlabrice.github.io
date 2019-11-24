@@ -82,9 +82,8 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/assets/images/MDonald.jpg" alt="Marion" width="600" height="400">
     </a>
-    <div class="desc">
-      <h3> Marion Donald</h3>
-      <p class="title">Ph.D. Student</p>
+    <div class="desc">Marion Donald</div>
+      <div class="title">Ph.D. Student</p>
       <p> Marion is interested in drivers of microbial symbiont prevalence and diversity within host populations, communities, and metacommunities.</p>
       </div>
   </div>
