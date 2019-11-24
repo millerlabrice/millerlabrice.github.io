@@ -212,7 +212,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability.</p>
+                                        <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability. Study system: grass and fungal endophytes.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
