@@ -258,8 +258,8 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Cholla</h5>
-                                <span>The prickly team member</span>
+                                <h5>Opuntia imbricata</h5>
+                                <span>Prickly team member</span>
                             </div>
                         </div>
                     </div>
