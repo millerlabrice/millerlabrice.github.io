@@ -1,5 +1,5 @@
 ---
-title: Lab Members5
+title: Lab Members
 icon: fa-users
 order: 3
 ---
