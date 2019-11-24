@@ -254,6 +254,28 @@ body {
 |:----------:|:-------------:|:------:|
 | Trevor Drees | Senior thesis 2019 | Ph.D. Student - Shea Lab at Penn State |
 | Nakian Kim |   Senior thesis 2018   | Ph.D. Student, Crop Sciences, U. Illinois |
-| Emily Schultz | Ph.D. 2018 |    Postdoc - Evans Lab at U. Arizona |
-
+| Emily Schultz | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona |
+| Michael Saucedo	| Lab manager 2018	| Teacher - NYC| 
+| Michelle Sneck	| PhD 2017	| Data Scientist, USAA| 
+| Brad Ochocki	| PhD 2017	| Data Scientist, Anadarko| 
+| Aldo Compagnoni	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv)| 
+| Kevin Czachura	| senior thesis 2017	| English instructor, Japan| 
+| Belle Harris | senior thesis 2017| 	| 
+| Andrew Bibian	| MS 2015, Database | Developer 2016-17	Data Scientist, Wood Mackenzie| 
+| Kory Kolis	| lab manager 2015-2016	| PhD student - Fishman Lab @ U. Montana| 
+| Brittany Cavazos | senior thesis 2016	| PhD student - Rogers Lab @ Iowa State| 
+| Charlene Thomas	| senior thesis 2016	| Laboratory technician| 
+| Marisol Palomeres	| senior thesis 2015	| English instructor, South Korea| 
+| Emily Begnel	| senior thesis 2015	| Public health graduate program, U. Washington| 
+| Teresa Bohner	| lab manager, 2012-2014	| PhD student - Diez Lab @ UC-Riverside| 
+| Marion Donald	| senior thesis 2014	| PhD student - Miller Lab @ Rice| 
+| Olivia Ragni	| senior thesis 2014	| medical student| 
+| Jesse Passman	| senior thesis 2014	| medical student| 
+| Rande Patterson	| senior thesis 2014	| Environmental consultant| 
+| Natalie Wagner	| senior thesis 2014	| MS student at University of Amsterdam| | 
+| Johanna Ohm	| senior thesis 2013	| PhD student - Read Lab @ Penn State| 
+| Rebecca Searle	| senior thesis 2013	| | 
+| Kate Snyder	| senior thesis 2012 |	PhD student at Vanderbilt| 
+| Tatiana Fofanova | senior thesis 2012 | | 
+| Nicole Freidenfelds	| lab manager 2011-2012	| | 
 
