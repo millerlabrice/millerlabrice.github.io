@@ -38,9 +38,6 @@ order: 5
                                 <span>PI</span>
                             </div>
                         </div>
-                       
-</div>
-<div class="row">
                         <div class="heading-title text-center">
                             <h3 class="text-uppercase">Post-docs </h3>
                             <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p>
@@ -63,7 +60,7 @@ order: 5
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tom Miller</h5>
+                                <h5>Tingfa Dong</h5>
                                 <span>PI</span>
                             </div>
                         </div>
@@ -92,7 +89,7 @@ order: 5
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tom Miller</h5>
+                                <h5>Marion Donald</h5>
                                 <span>PI</span>
                             </div>
                         </div>
