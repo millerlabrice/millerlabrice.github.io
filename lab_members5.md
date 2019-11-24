@@ -257,7 +257,7 @@ body {
 | Emily Schultz | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona |
 | Michael Saucedo	| Lab manager 2018	| Teacher - NYC| 
 | Michelle Sneck	| PhD 2017	| Data Scientist, USAA| 
-| <a <href="https://bradochocki.com"> Brad Ochocki</a>	| PhD 2017	| Data Scientist, Anadarko| 
+| <a href="https://bradochocki.com"> Brad Ochocki</a>	| PhD 2017	| Data Scientist, Anadarko| 
 | Aldo Compagnoni	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv)| 
 | Kevin Czachura	| senior thesis 2017	| English instructor, Japan| 
 | Belle Harris | senior thesis 2017| 	| 
