@@ -96,9 +96,9 @@ div.desc {
     </a>
     <div class="desc">
        <h3>Josh Fowler</h3>
-        <p class="title">Ph.D. Student</p>
-        <p>Josh is interested in using demography to understand how context-dependent mutualisms contribute to setting species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.</p>
-        <p>example@example.com</p></div>
+        <h4> Ph.D. Student <br>
+        Josh is interested in using demography to understand how context-dependent mutualisms contribute to setting species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.<br>
+        example@example.com</h4></div>
   </div>
 </div>
 
