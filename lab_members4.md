@@ -53,9 +53,9 @@ order: 3
 <p>Hover over the image to see the effect.</p>
 
 <div class="container">
-  <img src="img_avatar.png" alt="Avatar" class="image">
+  <img src="i/assets/images/josh_fowler.jpg" alt="Avatar" class="image">
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">Josh is interested in using demography to understand how context-dependent mutualisms contribute to setting species range limits and how they help hosts cope with environmental variability. Josh is using grasses and fungal endophytes as a study system.</div>
   </div>
 </div>
 
