@@ -48,7 +48,7 @@ order: 5
                           <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/tom_nm_final_crop.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/tingfa_dong.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -77,7 +77,7 @@ order: 5
                           <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/tom_nm_final_crop.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -99,7 +99,7 @@ order: 5
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
