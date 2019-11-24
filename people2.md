@@ -1,6 +1,5 @@
 ---
 title: People2
-layout: "people_template"
 icon: fa-th
 order: 5
 ---
