@@ -168,7 +168,7 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -190,7 +190,7 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/well-dressed-executive-with-crossed-arms_1098-3930.jpg" alt="team member" class="img-responsive">
+                                    <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
