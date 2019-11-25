@@ -8,7 +8,11 @@ order: 3
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
 
 body {
-   
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#161616;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
 }
 .heading-title {
     margin-bottom: 100px;
@@ -52,7 +56,7 @@ body {
     bottom: 0;
     right: 0;
     margin: 0;
-    border: 0px solid rgba(0, 0, 0, 0.1);
+    border: 20px solid rgba(0, 0, 0, 0.1);
     background-color: rgba(255, 255, 255, 0.90);
     opacity: 0;
     -webkit-transition: all 0.3s;
@@ -114,7 +118,7 @@ body {
 }
 .team-title {
     position: static;
-    padding: 15px 0;
+    padding: 0px 0;
     display: inline-block;
     letter-spacing: 2px;
     width: 100%;
