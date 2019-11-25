@@ -294,7 +294,7 @@ tr:nth-child(even) {
 </style>
 </head>
 
-| Alum   |      Miller Lab       |  Current Position |
+| Alum   |      Miller Lab       |  Current Position 
 |:----------:|:-------------:|:------:|
 | Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State |
 | Nakian Kim |   Senior thesis 2018   | Ph.D. student, Crop Sciences, U. Illinois |
@@ -316,9 +316,9 @@ tr:nth-child(even) {
 | Olivia Ragni	| Senior thesis 2014	| Medical student| 
 | Jesse Passman	| Senior thesis 2014	| Medical student| 
 | Rande Patterson	| Senior thesis 2014	| Environmental consultant| 
-| Natalie Wagner Niepoth	| Senior thesis 2014	| Ph.D. student - Bendensky Lab at Columbia University| | 
+| Natalie Wagner Niepoth	| Senior thesis 2014	| Ph.D. student - Bendensky Lab at Columbia University|
 | Johanna Ohm	| Senior thesis 2013	| Scientist, Verily| 
-| Rebecca Searle	| Senior thesis 2013	| | 
+| Rebecca Searle	| Senior thesis 2013	| |
 | Kate Snyder	| Senior thesis 2012 |	Ph.D. student at Vanderbilt| 
 | Tatiana Fofanova | Senior thesis 2012 | Ph.D. Baylor College of Medicine | 
 | Nicole Freidenfelds	| Lab manager 2011-12	| | 
