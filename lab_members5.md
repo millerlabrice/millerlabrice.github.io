@@ -1,7 +1,6 @@
 ---
 title: Lab Members
 icon: fa-users
-layout: default
 order: 3
 ---
 {%- include header.html -%}
