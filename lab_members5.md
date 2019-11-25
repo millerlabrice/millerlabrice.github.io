@@ -9,7 +9,7 @@ order: 3
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    
+    color:#161616;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
@@ -317,7 +317,7 @@ tr:nth-child(even) {
 | Olivia Ragni	| Senior thesis 2014	| Medical student
 | Jesse Passman	| Senior thesis 2014	| Medical student
 | Rande Patterson	| Senior thesis 2014	| Environmental consultant
-| Natalie Wagner Niepoth	| Senior thesis 2014	| Ph.D. student - Bendensky Lab at Columbia University
+| Natalie W. Niepoth	| Senior thesis 2014	| Ph.D. student - Bendensky Lab at Columbia University
 | Johanna Ohm	| Senior thesis 2013	| Scientist, Verily
 | Rebecca Searle	| Senior thesis 2013	| 
 | Kate Snyder	| Senior thesis 2012 |	Ph.D. student at Vanderbilt
