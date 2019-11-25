@@ -4,17 +4,9 @@ layout: "page"
 icon: fa-newspaper
 order: 4
 ---
-<head>
-  <style>
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
 
-body {
-    font-family: 'Source Sans Pro', sans-serif;
-    color:#161616;
-    font-size: 16px;
-}
-</style>
-</head>
+<body>
+<p style="font-size:16px">
 
 1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network. Methods in Ecology and Evolution (in press)
 
@@ -107,4 +99,4 @@ body {
 
 1. Miller, T.E.X. 2007. Demographic models reveal the shape of density dependence for a specialist insect herbivore on variable host-plants. Journal of Animal Ecology 76: 722-729.
 
-1. Miller, T.E.X., A.J. Tyre, and S.M. Louda. 2006. Plant reproductive allocation predicts herbivore dynamics across spatial and temporal scales. American Naturalist 168: 608-616.
+1. Miller, T.E.X., A.J. Tyre, and S.M. Louda. 2006. Plant reproductive allocation predicts herbivore dynamics across spatial and temporal scales. American Naturalist 168: 608-616. </p>
