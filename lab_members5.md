@@ -277,7 +277,7 @@ body {
 <style>
 table {
   font-family: arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color:black;
   border-collapse: collapse;
   width: 100%;
@@ -286,7 +286,7 @@ table {
 td, th {
   
   text-align: left;
-  padding: 8px;
+  padding: 2px;
 }
 
 tr:nth-child(even) {
