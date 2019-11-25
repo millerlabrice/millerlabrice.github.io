@@ -83,7 +83,7 @@ body {
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
     color: #222;
-    line-height: 1;
+    line-height: .75em;
 }
 .team-member:hover .team-hover .s-link {
     bottom: 10%;
@@ -108,13 +108,13 @@ body {
     text-align: center;
     color: #222;
     font-size: 15px;
-    line-height: 1;
+    line-height: .75em;
 }
 .team-member .s-link a {
     margin: 0 10px;
     color: #333;
     font-size: 18px;
-    line-height: 1;
+    line-height: .75em;
 }
 .team-title {
     position: static;
@@ -133,7 +133,7 @@ body {
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
-    line-height: 1;
+    line-height: .75em;
 }
 </style>
 </head>
