@@ -122,20 +122,20 @@ body {
     display: inline-block;
     letter-spacing: 2px;
     width: 100%;
-    line-height: .5em;
+    line-height: .75em;
 }
 .team-title h5 {
     margin-bottom: 0px;
     display: block;
     text-transform: uppercase;
-    line-height: .5em;
+    line-height: .75em;
 }
 .team-title span {
     font-size: 18px;
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
-    line-height: .5em;
+    line-height: .75em;
 }
 </style>
 </head>
