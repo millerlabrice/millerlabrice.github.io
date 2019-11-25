@@ -277,6 +277,7 @@ body {
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+<body>
 <table>
     <tr>
         <td>Alum</td>
@@ -441,6 +442,7 @@ body {
         <td></td>
     </tr>
 </table>
+</body>
 
 | Alum   |      Miller Lab       |  Current Position |
 |:----------:|:-------------:|:------:|
