@@ -65,7 +65,7 @@
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #161616;
 
 		&.is-loading * {
 			@include vendor('transition', 'none !important');
@@ -78,7 +78,7 @@
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #161616;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
