@@ -106,7 +106,7 @@ body {
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
     color: #222;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1;
 }
 .team-member .s-link a {
@@ -127,7 +127,7 @@ body {
     text-transform: uppercase;
 }
 .team-title span {
-    font-size: 14px;
+    font-size: 15px;
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
@@ -273,6 +273,7 @@ body {
 <style>
 td {
   font-size: 15px
+  color: #222
 }
 </style>
 | Alum   |      Miller Lab       |  Current Position |
