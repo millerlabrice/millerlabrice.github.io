@@ -277,7 +277,8 @@ body {
 <style>
 table {
   font-family: arial, sans-serif;
-  font-size: 10px;
+  font-size: 14px;
+  color:black;
   border-collapse: collapse;
   width: 100%;
 }
