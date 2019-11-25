@@ -271,180 +271,28 @@ body {
 
 
 ### Miller Lab Alumni
+
+
 <head>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:12px;color:black;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:12px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+<style>
+table {
+  font-family: arial, sans-serif;
+  font-size: 10px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
 </style>
 </head>
-<body>
-<table>
-    <tr>
-        <th>Alum</th>
-        <th>Miller Lab</th>
-        <th>Current Position</th>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Trevor Drees</td>
-        <td>Senior thesis 2019</td>
-        <td>Ph.D. student - Shea Lab at Penn State</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Nakian Kim</td>
-        <td>Senior thesis 2018</td>
-        <td>Ph.D. student, Crop Sciences, U. Illinois</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Emily Schultz</td>
-        <td>Ph.D. 2018</td>
-        <td>Postdoc - Evans Lab at U. Arizona</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Michael Saucedo</td>
-        <td>Lab manager 2018</td>
-        <td>Teacher - NYC</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Michelle Sneck</td>
-        <td>Ph.D. 2017</td>
-        <td>Data Scientist, USAA</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>&lt;a href="https://bradochocki.com"&gt; Brad Ochocki&lt;/a&gt;</td>
-        <td>Ph.D. 2017</td>
-        <td>Data Scientist, Croptix</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>&lt;a href="https://aldocompagnoni.weebly.com"&gt;Aldo Compagnoni&lt;/a&gt;</td>
-        <td>Postdoc 2013-17</td>
-        <td>German Centre for Integrative Biodiversity Research (iDiv)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Kevin Czachura</td>
-        <td>Senior thesis 2017</td>
-        <td>English instructor, Japan</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Belle Harris</td>
-        <td>Senior thesis 2017</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Andrew Bibian</td>
-        <td>M.S. 2015, Database Developer 2016-17</td>
-        <td>Data Scientist, Insight</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Kory Kolis</td>
-        <td>Lab manager 2015-16</td>
-        <td>Ph.D. student - Fishman Lab at U. Montana</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Brittany Cavazos</td>
-        <td>Senior thesis 2016</td>
-        <td>Ph.D. student - Rogers Lab at Iowa State</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Charlene Thomas</td>
-        <td>Senior thesis 2016</td>
-        <td>Biostatistician</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Marisol Palomeres</td>
-        <td>Senior thesis 2015</td>
-        <td>English instructor, South Korea</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Emily Begnel</td>
-        <td>Senior thesis 2015</td>
-        <td>Public health graduate program, U. Washington</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Teresa Bohner</td>
-        <td>Lab manager, 2012-14</td>
-        <td>Ph.D. student - Diez Lab at UC-Riverside</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>&lt;a href="https://mdonald.github.io"&gt;Marion Donald&lt;/a&gt;</td>
-        <td>Senior thesis 2014</td>
-        <td>Ph.D. student - &lt;a href="https://millerlabrice.github.io/lab_members5.html"&gt;Miller Lab at Rice&lt;/a&gt;</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Olivia Ragni</td>
-        <td>Senior thesis 2014</td>
-        <td>Medical student</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Jesse Passman</td>
-        <td>Senior thesis 2014</td>
-        <td>Medical student</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Rande Patterson</td>
-        <td>Senior thesis 2014</td>
-        <td>Environmental consultant</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Natalie Wagner Niepoth</td>
-        <td>Senior thesis 2014</td>
-        <td>Ph.D. student - Bendensky Lab at Columbia University</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Johanna Ohm</td>
-        <td>Senior thesis 2013</td>
-        <td>Scientist, Verily</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Rebecca Searle</td>
-        <td>Senior thesis 2013</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Kate Snyder</td>
-        <td>Senior thesis 2012</td>
-        <td>Ph.D. student at Vanderbilt</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Tatiana Fofanova</td>
-        <td>Senior thesis 2012</td>
-        <td>Ph.D. Baylor College of Medicine</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Nicole Freidenfelds</td>
-        <td>Lab manager 2011-12</td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-</body>
 
 | Alum   |      Miller Lab       |  Current Position |
 |:----------:|:-------------:|:------:|
@@ -474,68 +322,3 @@ body {
 | Kate Snyder	| Senior thesis 2012 |	Ph.D. student at Vanderbilt| 
 | Tatiana Fofanova | Senior thesis 2012 | Ph.D. Baylor College of Medicine | 
 | Nicole Freidenfelds	| Lab manager 2011-12	| | 
-
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  font-size: 10px;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
-<h2>HTML Table</h2>
-
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-</table>
-
-</body>
-
