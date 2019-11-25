@@ -271,11 +271,12 @@ body {
 ### Miller Lab Alumni
 
 <style>
-td {
+body {
   font-size: 13px
   color: #2E4053
 }
 </style>
+<body>
 | Alum   |      Miller Lab       |  Current Position |
 |:----------:|:-------------:|:------:|
 | Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State |
@@ -304,4 +305,4 @@ td {
 | Kate Snyder	| Senior thesis 2012 |	Ph.D. student at Vanderbilt| 
 | Tatiana Fofanova | Senior thesis 2012 | Ph.D. Baylor College of Medicine | 
 | Nicole Freidenfelds	| Lab manager 2011-12	| | 
-
+</body>
