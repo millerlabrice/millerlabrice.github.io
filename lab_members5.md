@@ -271,18 +271,20 @@ body {
 
 
 ### Miller Lab Alumni
+<head>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+</head>
 <body>
 <table>
     <tr>
-        <td>Alum</td>
-        <td>Miller Lab</td>
-        <td>Current Position</td>
+        <th>Alum</th>
+        <th>Miller Lab</th>
+        <th>Current Position</th>
         <td></td>
     </tr>
     <tr>
