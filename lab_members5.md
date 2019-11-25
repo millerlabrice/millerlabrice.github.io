@@ -273,9 +273,7 @@ body {
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 ### Miller Lab Alumni
 
