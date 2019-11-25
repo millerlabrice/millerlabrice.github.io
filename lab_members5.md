@@ -149,8 +149,8 @@ body {
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Hi There !</h4>
-                                        <p>I love to introduce myself as a hardcore Web Designer.</p>
+                                        <h4>Research Interests</h4>
+                                        <p>Population dynamics, quantitative ecology, and species interactions</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
@@ -213,7 +213,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability. Study system: grass and fungal endophytes.</p>
+                                        <p>Contributions of context-dependent mutualisms to species range limits and how they help hosts cope with environmental variability.</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="https://github.com/joshuacfowler"><i class="fab fa-github"></i></a>
