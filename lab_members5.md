@@ -270,8 +270,6 @@ body {
 
 ### Miller Lab Alumni
 
-
-
 | Alum   |      Miller Lab       |  Current Position |
 |:----------:|:-------------:|:------:|
 | Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State |
