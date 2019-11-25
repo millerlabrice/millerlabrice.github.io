@@ -12,7 +12,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1;
     color: #323232;
-   
+    font-size: 20px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -115,11 +115,11 @@ body {
 .team-member .s-link a {
     margin: 0 10px;
     color: #333;
-    font-size: 16px;
+    font-size: 15px;
 }
 .team-title {
     position: static;
-    padding: 20px 0;
+    padding: 15px 0;
     display: inline-block;
     letter-spacing: 2px;
     width: 100%;
