@@ -1,9 +1,10 @@
 ---
 title: Lab Members
 icon: fa-users
+layout: default
 order: 3
 ---
-
+<head>
   <style>
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
 
@@ -134,8 +135,8 @@ body {
     color: #a5a5a5;
     letter-spacing: 1px;
 }
-
-
+</style>
+</head>
 <body>
 
 <div class="container">
@@ -267,7 +268,7 @@ body {
                 </div>
 
 </body>
-</style>
+
 
 ### Miller Lab Alumni
 
