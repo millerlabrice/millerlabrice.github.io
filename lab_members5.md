@@ -52,7 +52,7 @@ body {
     bottom: 0;
     right: 0;
     margin: 0;
-    border: 20px solid rgba(0, 0, 0, 0.1);
+    border: 0px solid rgba(0, 0, 0, 0.1);
     background-color: rgba(255, 255, 255, 0.90);
     opacity: 0;
     -webkit-transition: all 0.3s;
