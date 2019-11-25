@@ -8,11 +8,7 @@ order: 3
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
-    color:#161616;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-font-smoothing: antialiased;
+   
 }
 .heading-title {
     margin-bottom: 100px;
