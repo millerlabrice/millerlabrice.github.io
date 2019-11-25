@@ -11,7 +11,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1;
     color: #323232;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -109,6 +109,7 @@ body {
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
     color: #222;
+    font-size: 14px;
 }
 .team-member .s-link a {
     margin: 0 10px;
@@ -128,7 +129,7 @@ body {
     text-transform: uppercase;
 }
 .team-title span {
-    font-size: 14px;
+    font-size: 15px;
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
