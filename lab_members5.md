@@ -10,9 +10,9 @@ order: 3
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    line-height: 1;
+    line-height: 1.5;
     color: #323232;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -111,6 +111,7 @@ body {
     text-align: center;
     color: #222;
     font-size: 14px;
+    line-height: 1;
 }
 .team-member .s-link a {
     margin: 0 10px;
