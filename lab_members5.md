@@ -3,16 +3,15 @@ title: Lab Members
 icon: fa-users
 order: 3
 ---
-{%- include header.html -%}
 <head>
   <style>
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    line-height: 1.5;
+    line-height: 1;
     color: #323232;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -131,13 +130,14 @@ body {
     text-transform: uppercase;
 }
 .team-title span {
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
 }
 </style>
 </head>
+{%- include header.html -%}
 <body>
 
 <div class="container">
