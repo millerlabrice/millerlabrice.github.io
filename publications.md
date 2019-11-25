@@ -4,15 +4,33 @@ layout: "page"
 icon: fa-newspaper
 order: 4
 ---
+<head>
+  <style>
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#161616;
+}
+</style>
+</head>
 
 1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network. Methods in Ecology and Evolution (in press)
+
 1. Ochocki, B.M., Saltz, J.B. and T.E.X. Miller. (2019) Demography-dispersal trait correlations modify the eco-evolutionary dynamics of range expansion. American Naturalist (in press)
+
 1. Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](http://www.owlnet.rice.edu/~tm9/pdf/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
+
 1. Iler, A.M., Compagnoni, A.C., Inouye, D.W., Williams, J., CaraDonna, P.J., Anderson, A., and T.E.X. Miller. (2019) [Reproductive losses due to climate change-induced earlier flowering are not the primary threat to plant population viability in a perennial herb](http://www.owlnet.rice.edu/~tm9/pdf/Iler%20et%20al.%202019%20JEcol.pdf). Journal of Ecology 107: 1931-1943
+
 1. Sneck, M.E., Rudgers, J.A., Young, C.A.Y. and T.E.X. Miller. (2019) [Does host outcrossing disrupt compatibility with heritable symbionts?](http://www.owlnet.rice.edu/~tm9/pdf/Sneck%20et%20al.%202019%20Oikos.pdf). Oikos 128: 892-903
+
 1. Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](http://www.owlnet.rice.edu/~tm9/pdf/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
+
 1. Eberhart-Phillips, L.J., Kupper, C., Carmona-Isunza, M.C., Vincze, O., Zefania, S., Cruz-Lopez, M., Kosztolanyi, A., Miller, T.E.X., Barta, Z., Cuthill, I.C., Burke, T., Szekely, T., Hoffman, J.I. and O. Kruger. (2018) [Demographic causes of adult sex ratio variation and their consequences for parental cooperation](http://www.owlnet.rice.edu/~tm9/pdf/Eberhart-Phillips%20et%20al%202018%20NatComm.pdf). Nature Communications 9:1651
+
 1. Compagnoni, A.C., Steigman, K., and T.E.X. Miller. (2017) [Can't live with them, can't live without them? Balancing mating and competition in two-sex populations](http://www.owlnet.rice.edu/~tm9/pdf/Compagnoni_2017_PRSB.pdf). Proceedings of the Royal Society Series B 284:20171999
+
 1. Schultz, E.L., Eckberg, J.O., Berg, S.S., Louda, S.M., and T.E.X. Miller. (2017) [Native insect herbivory overwhelms context-dependence to limit complex invasion dynamics of exotic weeds](http://www.owlnet.rice.edu/~tm9/pdf/Schultz_et_al-2017-Ecology_Letters.pdf). Ecology Letters 20:1374-1384
 1. Eberhart-Phillips, L.J., C. Küpper, T.E.X. Miller, M. Cruz-López, K.H. Maher, N. dos Remedios, M.A. Stoffel, J.I. Hoffman, O. Krüger, and T. Székely. (2017) [Adult sex ratio bias in snowy plovers is driven by sex-specific early survival: implications for mating systems and population growth](http://www.owlnet.rice.edu/~tm9/pdf/PNAS-2017-Eberhart-Phillips.pdf). Proceedings of the National Academy of Sciences 114: E5474-E5481
 1. Sullivan, L.L., Li, B., Miller, T.E.X., Neubert, M.G., and A.K. Shaw. (2017) [Density dependence in demography and dispersal generates fluctuating invasion speeds](http://www.owlnet.rice.edu/~tm9/pdf/PNAS-2017-Sullivan.pdf). Proceedings of the National Academy of Sciences 114:5053-5058
