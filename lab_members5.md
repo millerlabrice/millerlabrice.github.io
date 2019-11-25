@@ -287,7 +287,7 @@ body {
 | Marisol Palomeres	| Senior thesis 2015	| English instructor, South Korea| 
 | Emily Begnel	| Senior thesis 2015	| Public health graduate program, U. Washington| 
 | Teresa Bohner	| Lab manager, 2012-14	| Ph.D. student - Diez Lab at UC-Riverside| 
-| | <a href="https://mdonald.github.io">Marion Donald</a>	| Senior thesis 2014	| Ph.D. student - <a href="https://millerlabrice.github.io/lab_members5.html">Miller Lab at Rice</a>| 
+|<a href="https://mdonald.github.io">Marion Donald</a>	| Senior thesis 2014	| Ph.D. student - <a href="https://millerlabrice.github.io/lab_members5.html">Miller Lab at Rice</a>| 
 | Olivia Ragni	| Senior thesis 2014	| Medical student| 
 | Jesse Passman	| Senior thesis 2014	| Medical student| 
 | Rande Patterson	| Senior thesis 2014	| Environmental consultant| 
