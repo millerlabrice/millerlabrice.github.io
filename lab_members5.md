@@ -277,7 +277,7 @@ body {
 <style>
 table {
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color:black;
   border-collapse: collapse;
   width: 100%;
@@ -296,30 +296,30 @@ tr:nth-child(even) {
 </head>
 
 | Alum   |      Miller Lab       |  Current Position 
-|:----------:|:-------------:|:------:|
-| Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State |
-| Nakian Kim |   Senior thesis 2018   | Ph.D. student, Crop Sciences, U. Illinois |
-| Emily Schultz | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona |
-| Michael Saucedo	| Lab manager 2018	| Teacher - NYC| 
-| Michelle Sneck	| Ph.D. 2017	| Data Scientist, USAA| 
-| <a href="https://bradochocki.com"> Brad Ochocki</a>	| Ph.D. 2017	| Data Scientist, Croptix| 
-| <a href="https://aldocompagnoni.weebly.com">Aldo Compagnoni</a>	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv)| 
-| Kevin Czachura	| Senior thesis 2017	| English instructor, Japan| 
-| Belle Harris | Senior thesis 2017| 	| 
-| Andrew Bibian	| M.S. 2015, Database Developer 2016-17|  Data Scientist, Insight| 
-| Kory Kolis	| Lab manager 2015-16	| Ph.D. student - Fishman Lab at U. Montana| 
-| Brittany Cavazos | Senior thesis 2016	| Ph.D. student - Rogers Lab at Iowa State| 
-| Charlene Thomas	| Senior thesis 2016	| Biostatistician| 
-| Marisol Palomeres	| Senior thesis 2015	| English instructor, South Korea| 
-| Emily Begnel	| Senior thesis 2015	| Public health graduate program, U. Washington| 
-| Teresa Bohner	| Lab manager, 2012-14	| Ph.D. student - Diez Lab at UC-Riverside| 
-|<a href="https://mdonald.github.io">Marion Donald</a>	| Senior thesis 2014	| Ph.D. student - <a href="https://millerlabrice.github.io/lab_members5.html">Miller Lab at Rice</a>| 
-| Olivia Ragni	| Senior thesis 2014	| Medical student| 
-| Jesse Passman	| Senior thesis 2014	| Medical student| 
-| Rande Patterson	| Senior thesis 2014	| Environmental consultant| 
-| Natalie Wagner Niepoth	| Senior thesis 2014	| Ph.D. student - Bendensky Lab at Columbia University|
-| Johanna Ohm	| Senior thesis 2013	| Scientist, Verily| 
-| Rebecca Searle	| Senior thesis 2013	| |
-| Kate Snyder	| Senior thesis 2012 |	Ph.D. student at Vanderbilt| 
-| Tatiana Fofanova | Senior thesis 2012 | Ph.D. Baylor College of Medicine | 
-| Nicole Freidenfelds	| Lab manager 2011-12	| | 
+|:----------:|:-------------:|:------:
+| Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State 
+| Nakian Kim |   Senior thesis 2018   | Ph.D. student, Crop Sciences, U. Illinois 
+| Emily Schultz | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona 
+| Michael Saucedo	| Lab manager 2018	| Teacher - NYC
+| Michelle Sneck	| Ph.D. 2017	| Data Scientist, USAA
+| <a href="https://bradochocki.com"> Brad Ochocki</a>	| Ph.D. 2017	| Data Scientist, Croptix
+| <a href="https://aldocompagnoni.weebly.com">Aldo Compagnoni</a>	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv) 
+| Kevin Czachura	| Senior thesis 2017	| English instructor, Japan
+| Belle Harris | Senior thesis 2017| 	
+| Andrew Bibian	| M.S. 2015, Database Developer 2016-17|  Data Scientist, Insight
+| Kory Kolis	| Lab manager 2015-16	| Ph.D. student - Fishman Lab at U. Montana 
+| Brittany Cavazos | Senior thesis 2016	| Ph.D. student - Rogers Lab at Iowa State 
+| Charlene Thomas	| Senior thesis 2016	| Biostatistician
+| Marisol Palomeres	| Senior thesis 2015	| English instructor, South Korea 
+| Emily Begnel	| Senior thesis 2015	| Public health graduate program, U. Washington 
+| Teresa Bohner	| Lab manager, 2012-14	| Ph.D. student - Diez Lab at UC-Riverside
+|<a href="https://mdonald.github.io">Marion Donald</a>	| Senior thesis 2014	| Ph.D. student - <a href="https://millerlabrice.github.io/lab_members5.html">Miller Lab at Rice</a>
+| Olivia Ragni	| Senior thesis 2014	| Medical student
+| Jesse Passman	| Senior thesis 2014	| Medical student
+| Rande Patterson	| Senior thesis 2014	| Environmental consultant
+| Natalie Wagner Niepoth	| Senior thesis 2014	| Ph.D. student - Bendensky Lab at Columbia University
+| Johanna Ohm	| Senior thesis 2013	| Scientist, Verily
+| Rebecca Searle	| Senior thesis 2013	| 
+| Kate Snyder	| Senior thesis 2012 |	Ph.D. student at Vanderbilt
+| Tatiana Fofanova | Senior thesis 2012 | Ph.D. Baylor College of Medicine  
+| Nicole Freidenfelds	| Lab manager 2011-12	|  
