@@ -254,7 +254,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Growth, reproduction and ant-plant mutualisms</p>
+                                        <p>Growth, reproduction, and ant-plant mutualisms</p>
                                     </div>
                                     <div class="s-link">
                                     </div>
