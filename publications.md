@@ -11,7 +11,7 @@ order: 4
 body {
     font-family: 'Source Sans Pro', sans-serif;
     color:#161616;
-    font-size: 16px;
+    font-size: 18px;
 }
 </style>
 </head>
