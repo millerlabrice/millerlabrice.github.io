@@ -161,7 +161,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tom EX Miller</h5>
+                                <h5>Tom E.X. Miller</h5>
                                 <span>PI</span>
                             </div>
                         </div>
