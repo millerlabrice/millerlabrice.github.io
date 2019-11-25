@@ -10,7 +10,6 @@ order: 3
 body {
     font-family: 'Source Sans Pro', sans-serif;
     color:#161616;
-    line-height: 1;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
@@ -84,6 +83,7 @@ body {
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
     color: #222;
+    line-height: 1;
 }
 .team-member:hover .team-hover .s-link {
     bottom: 10%;
@@ -114,6 +114,7 @@ body {
     margin: 0 10px;
     color: #333;
     font-size: 18px;
+    line-height: 1;
 }
 .team-title {
     position: static;
@@ -132,6 +133,7 @@ body {
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
+    line-height: 1;
 }
 </style>
 </head>
