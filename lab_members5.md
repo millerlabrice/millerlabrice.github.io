@@ -10,7 +10,6 @@ order: 3
 body {
     font-family: 'Source Sans Pro', sans-serif;
     color:#161616;
-    font-size: 18px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;

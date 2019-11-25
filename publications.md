@@ -4,17 +4,6 @@ layout: "page"
 icon: fa-newspaper
 order: 4
 ---
-<head>
-  <style>
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
-
-body {
-    font-family: 'Source Sans Pro', sans-serif;
-    color:#161616;
-    font-size: 18px;
-}
-</style>
-</head>
 
 1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network. Methods in Ecology and Evolution (in press)
 
