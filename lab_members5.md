@@ -131,7 +131,7 @@ body {
     line-height: .85em;
 }
 .team-title span {
-    font-size: 18px;
+    font-size: 16px;
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
