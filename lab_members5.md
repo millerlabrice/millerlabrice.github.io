@@ -110,7 +110,7 @@ body {
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
     color: #222;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1;
 }
 .team-member .s-link a {
@@ -125,7 +125,7 @@ body {
     letter-spacing: 2px;
     width: 100%;
 }
-.team-title h5 {
+.team-title h6 {
     margin-bottom: 0px;
     display: block;
     text-transform: uppercase;
@@ -159,7 +159,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tom EX Miller</h5>
+                                <h6>Tom EX Miller</h6>
                                 <span>PI</span>
                             </div>
                         </div>
@@ -179,7 +179,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tingfa Dong</h5> 
+                                <h6>Tingfa Dong</h6> 
                                 <span>Visiting Scholar</span>
                             </div>
                         </div>
@@ -201,7 +201,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Marion Donald</h5>
+                                <h6>Marion Donald</h6>
                                 <span>Ph.D. Student</span>
                             </div>
                         </div>
@@ -223,7 +223,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Josh Fowler</h5>
+                                <h6>Josh Fowler</h6>
                                 <span>Ph.D. Student</span>
                             </div>
                         </div>
@@ -242,7 +242,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Junior</h5>
+                                <h6>Junior</h6>
                                 <span>Best dog</span>
                             </div>
                         </div>
@@ -261,7 +261,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Opuntia imbricata</h5>
+                                <h6>Opuntia imbricata</h6>
                                 <span>Prickly team member</span>
                             </div>
                         </div>
