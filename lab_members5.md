@@ -277,8 +277,8 @@ body {
 <style>
 table {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 14px;
-  color:#838383;
+  font-size: 16px;
+  color:#333333;
   border-collapse: collapse;
   width: 100%;
 }
