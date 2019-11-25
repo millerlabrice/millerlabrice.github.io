@@ -272,8 +272,8 @@ body {
 
 <style>
 td {
-  font-size: 15px
-  color: #222
+  font-size: 13px
+  color: #2E4053
 }
 </style>
 | Alum   |      Miller Lab       |  Current Position |
