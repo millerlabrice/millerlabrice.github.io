@@ -11,7 +11,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1;
     color: #323232;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -104,7 +104,7 @@ body {
     transform: translateY(45%);
     -webkit-transition: all 0.3s 0.2s;
     transition: all 0.3s 0.2s;
-    font-size: 35px;
+    font-size: 15px;
 }
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
@@ -128,7 +128,7 @@ body {
     text-transform: uppercase;
 }
 .team-title span {
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
@@ -176,7 +176,7 @@ body {
                                 </div>
                             </div>
                             <div class="team-title">
-                                <h5>Tingfa Dong</h5>.  
+                                <h5>Tingfa Dong</h5> 
                                 <span>Visiting Scholar</span>
                             </div>
                         </div>
