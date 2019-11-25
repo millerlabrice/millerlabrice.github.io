@@ -12,7 +12,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1;
     color: #323232;
-    font-size: 20px;
+   
     font-weight: 400;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -288,8 +288,8 @@ td {
 | <a href="https://aldocompagnoni.weebly.com">Aldo Compagnoni</a>	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv)| 
 | Kevin Czachura	| Senior thesis 2017	| English instructor, Japan| 
 | Belle Harris | Senior thesis 2017| 	| 
-| Andrew Bibian	| MS 2015, Database Developer 2016-17|  Data Scientist, Insight| 
-| Kory Kolis	| lab manager 2015-16	| Ph.D. student - Fishman Lab at U. Montana| 
+| Andrew Bibian	| M.S. 2015, Database Developer 2016-17|  Data Scientist, Insight| 
+| Kory Kolis	| Lab manager 2015-16	| Ph.D. student - Fishman Lab at U. Montana| 
 | Brittany Cavazos | Senior thesis 2016	| Ph.D. student - Rogers Lab at Iowa State| 
 | Charlene Thomas	| Senior thesis 2016	| Biostatistician| 
 | Marisol Palomeres	| Senior thesis 2015	| English instructor, South Korea| 
