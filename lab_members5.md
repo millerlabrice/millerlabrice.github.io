@@ -479,6 +479,7 @@ body {
 <style>
 table {
   font-family: arial, sans-serif;
+  font-size: 10px;
   border-collapse: collapse;
   width: 100%;
 }
