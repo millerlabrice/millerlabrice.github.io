@@ -6,7 +6,7 @@ layout: post
 
 Recent and current work on range expansions explores how climate may drive shifts in vegetation ecotones across natural landscapes at the Sevillita National Wildlife Refuge, how climate mediates species interactions across ranges, and how evolution can modify dispersal ability using bean beetle populations in the lab.
 
-<strong>Check out this video for a highlight of work led by a recent PhD graduate, Brad Ochocki!</strong>
+<strong>Check out this video for a highlight of work led by former Miller Lab member, Brad Ochocki!</strong>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Afma90GhsfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
