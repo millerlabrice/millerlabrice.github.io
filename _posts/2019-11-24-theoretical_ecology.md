@@ -7,5 +7,6 @@ As quantitative population biologists, our lab seeks to understand how populatio
 
 <div>
 	<h3>Left &amp; Right</h3>
-	<p><span class="image left"><img src="{{ 'assets/images/Bibianetal_2016.png' | relative_url }}" alt="" /></span>Research in the lab has built on theory for life history strategy, coexistence, and structured, stochastic population dynamics.</p>
+	<p><span class="image left"><img src="{{ 'assets/images/Bibianetal_2016.png' | relative_url }}" alt="" /><figcaption>Illustration by Karina I. Helm from Bibian et al. 2016</figcaption></span>Research in the lab has built on theory for life history strategy, coexistence, and structured, stochastic population dynamics.</p>
+	
 </div>
