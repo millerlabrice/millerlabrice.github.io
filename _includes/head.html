@@ -1,7 +1,17 @@
 <head>
-  {%- if site.google_analytics and jekyll.environment == 'production' -%}
+   <!--{%- if site.google_analytics and jekyll.environment == 'production' -%}
     {%- include google_analytics.html -%}
-  {%- endif -%}
+  {%- endif -%} -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153194334-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153194334-1');
+</script>
   
   <!-- Robots -->
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
