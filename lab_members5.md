@@ -158,7 +158,7 @@ body {
                                         <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
                                         <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
                                          <a href="/assets/CV/Miller_CV.pdf"><i class="far fa-address-card"></i></a>
-                                         <a href="malito:tom.miller@rice.edu"><i class="fa fa-envelope"></i></a>
+                                         <a href="mailto:tom.miller@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
                             </div>
