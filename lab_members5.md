@@ -179,6 +179,7 @@ body {
                                     </div>
                                      <div class="s-link">
                                         <a href="https://scholar.google.com/citations?user=H7RzIz8AAAAJ&hl=zh-CN"><i class="fab fa-google"></i></a>
+                                           <a href="mailto:td30@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -201,6 +202,7 @@ body {
                                         <a href="https://github.com/mdonald"><i class="fab fa-github"></i></a>
                                         <a href="https://mdonald.github.io"><i class="fas fa-star"></i></a>
                                         <a href="https://scholar.google.com/citations?hl=en&user=RcXMO0MAAAAJ&view_op=list_works&gmla=AJsN-F6z0ekQnOgA8Gr0RyokKIB2_n9t1Na2wYVZtfD_LfEPKsYAjYvnJj1tKGmXqL48fhnvV5ZIswSt4QgxblzU4p5ScBEoCkJF8ttFHxPAqePLMJiDM0M"><i class="fab fa-google"></i></a>
+                                         <a href="mailto:mld1@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -223,6 +225,7 @@ body {
                                         <a href="https://github.com/joshuacfowler"><i class="fab fa-github"></i></a>
                                         <a href="https://joshuacfowler.github.io"><i class="fas fa-star"></i></a>
                                         <a href="#"><i class="fab fa-google"></i></a>
+                                         <a href="mailto:jcf3@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
                             </div>
