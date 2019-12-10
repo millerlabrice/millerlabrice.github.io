@@ -155,9 +155,9 @@ body {
                                         <p>Population dynamics, quantitative ecology, and species interactions</p>
                                     </div>
                                     <div class="s-link">
-                                        <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
                                         <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
-                                         <a href="/assets/CV/Miller_CV.pdf"><i class="far fa-address-card"></i></a>
+                                        <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
+                                        <a href="/assets/CV/Miller_CV.pdf"><i class="far fa-address-card"></i></a>
                                          <a href="mailto:tom.miller@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
@@ -199,9 +199,9 @@ body {
                                         <p>Drivers of microbial symbiont prevalence and diversity within host populations, communities, and metacommunities.</p>
                                     </div>
                                     <div class="s-link">
-                                    	 <a href="https://scholar.google.com/citations?user=RcXMO0MAAAAJ&hl=en"><i class="fab fa-google"></i></a>
+                                    	<a href="https://scholar.google.com/citations?user=RcXMO0MAAAAJ&hl=en"><i class="fab fa-google"></i></a>
+                                    	<a href="https://mdonald.github.io"><i class="fas fa-star"></i></a>
                                         <a href="https://github.com/mdonald"><i class="fab fa-github"></i></a>
-                                        <a href="https://mdonald.github.io"><i class="fas fa-star"></i></a>
                                         <a href="mailto:mld1@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
