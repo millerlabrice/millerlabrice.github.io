@@ -157,7 +157,7 @@ body {
                                     <div class="s-link">
                                         <a href="https://github.com/texmiller"><i class="fab fa-github"></i></a>
                                         <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
-                                         <a href="https://github.com/millerlabrice/millerlabrice.github.io/blob/master/assets/CV/Miller_CV.pdf"><i class="far fa-file"></i></a>
+                                         <a href="https://github.com/millerlabrice/millerlabrice.github.io/assets/CV/Miller_CV.pdf"><i class="far fa-file"></i></a>
                                     </div>
                                 </div>
                             </div>
