@@ -8,5 +8,5 @@ Recent and current work on range expansions explores how climate may drive shift
 
 <strong>Check out this video for a highlight of work led by former Miller Lab member, Brad Ochocki!</strong>
 
-<iframe " width="560" height="315" src="https://www.youtube.com/embed/Afma90GhsfE" frameborder="0" align="middle" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Afma90GhsfE" frameborder="0" align="middle" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
