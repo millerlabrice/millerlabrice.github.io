@@ -15,11 +15,12 @@ layout: page
 
 
 Check out some of our research in these publications!
-*Compagnoni, A., Bibian, A.J., Ochocki, B.M., Rogers, H.S., Schultz, E., Sneck, M.E., Elderd, B.D., Iler, A., Inouye, D., Jacquemyn, H. and T.E.X. Miller. (2016) The effect of demographic correlations on the stochastic population dynamics of perennial plants. Ecological Monographs 86:125-144
 
-*Bibian, A.J., Rudgers, J.A. and T.E.X. Miller. (2016) The role of host demographic storage in the ecological dynamics of heritable symbionts. American Naturalist 188:446-459
+* Compagnoni, A., Bibian, A.J., Ochocki, B.M., Rogers, H.S., Schultz, E., Sneck, M.E., Elderd, B.D., Iler, A., Inouye, D., Jacquemyn, H. and T.E.X. Miller. (2016) The effect of demographic correlations on the stochastic population dynamics of perennial plants. Ecological Monographs 86:125-144
 
-*Elderd, B.D. and T.E.X. Miller. (2016) Quantifying demographic uncertainty: Bayesian methods for Integral Projection Models. Ecological Monographs 86:125-144
+* Bibian, A.J., Rudgers, J.A. and T.E.X. Miller. (2016) The role of host demographic storage in the ecological dynamics of heritable symbionts. American Naturalist 188:446-459
 
-*Miller, T.E.X. and J.A. Rudgers. (2014) Niche differentiation in the dynamics of host-symbiont interactions: symbiont prevalence as a coexistence problem. American Naturalist 183 (4):506-518.
+* Elderd, B.D. and T.E.X. Miller. (2016) Quantifying demographic uncertainty: Bayesian methods for Integral Projection Models. Ecological Monographs 86:125-144
+
+* Miller, T.E.X. and J.A. Rudgers. (2014) Niche differentiation in the dynamics of host-symbiont interactions: symbiont prevalence as a coexistence problem. American Naturalist 183 (4):506-518.
 	
