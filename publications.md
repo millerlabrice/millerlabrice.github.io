@@ -9,7 +9,7 @@ order: 4
 
 1. Ochocki, B.M., Saltz, J.B. and T.E.X. Miller. (2019) Demography-dispersal trait correlations modify the eco-evolutionary dynamics of range expansion. American Naturalist (in press)
 
-1. Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](http://www.owlnet.rice.edu/~tm9/pdf/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
+1. Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](/texmiller_publications/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
 
 1. Iler, A.M., Compagnoni, A.C., Inouye, D.W., Williams, J., CaraDonna, P.J., Anderson, A., and T.E.X. Miller. (2019) [Reproductive losses due to climate change-induced earlier flowering are not the primary threat to plant population viability in a perennial herb](http://www.owlnet.rice.edu/~tm9/pdf/Iler%20et%20al.%202019%20JEcol.pdf). Journal of Ecology 107: 1931-1943
 
