@@ -6,7 +6,7 @@ layout: page
 
 Mutualisms, positive interactions between species, are widespread and notoriously context dependent.
  
-<img style="float: right; margin: 0px 0px 0px 20px;" src="{{ 'assets/images/ants_cholla.jpg' | relative_url }}" width="413.75" height="374.5" alt="L. apiculatum feeding on C. imbricata extra-floral nectar"  /> 
+<img style="float: right; margin: 0px 0px 0px 10px;" src="{{ 'assets/images/ants_cholla.jpg' | relative_url }}" width="413.75" height="374.5" alt="L. apiculatum feeding on C. imbricata extra-floral nectar"  /> 
 
 We work with a variety of systems to address how mutualistic interactions -- and their context-dependent effects -- affect population dynamics. Some of our favorite systems include ants and cacti and fungal endophytes and grasses. 
 
