@@ -15,8 +15,6 @@ We work with a variety of systems to address how mutualistic interactions -- and
 <br>
 <br>
 <br>
-<br>
-<br>
 
 * Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](http://www.owlnet.rice.edu/~tm9/pdf/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
 
