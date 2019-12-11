@@ -17,15 +17,15 @@ order: 4
 
 1. Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](/texmiller_publications/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
 
-1. Eberhart-Phillips, L.J., Kupper, C., Carmona-Isunza, M.C., Vincze, O., Zefania, S., Cruz-Lopez, M., Kosztolanyi, A., Miller, T.E.X., Barta, Z., Cuthill, I.C., Burke, T., Szekely, T., Hoffman, J.I. and O. Kruger. (2018) [Demographic causes of adult sex ratio variation and their consequences for parental cooperation](http://www.owlnet.rice.edu/~tm9/pdf/Eberhart-Phillips%20et%20al%202018%20NatComm.pdf). Nature Communications 9:1651
+1. Eberhart-Phillips, L.J., Kupper, C., Carmona-Isunza, M.C., Vincze, O., Zefania, S., Cruz-Lopez, M., Kosztolanyi, A., Miller, T.E.X., Barta, Z., Cuthill, I.C., Burke, T., Szekely, T., Hoffman, J.I. and O. Kruger. (2018) [Demographic causes of adult sex ratio variation and their consequences for parental cooperation](/texmiller_publications/Eberhart-Phillips_et_al_2018_NatComm.pdf). Nature Communications 9:1651
 
-1. Compagnoni, A.C., Steigman, K., and T.E.X. Miller. (2017) [Can't live with them, can't live without them? Balancing mating and competition in two-sex populations](http://www.owlnet.rice.edu/~tm9/pdf/Compagnoni_2017_PRSB.pdf). Proceedings of the Royal Society Series B 284:20171999
+1. Compagnoni, A.C., Steigman, K., and T.E.X. Miller. (2017) [Can't live with them, can't live without them? Balancing mating and competition in two-sex populations](/texmiller_publications/Compagnoni_2017_PRSB.pdf). Proceedings of the Royal Society Series B 284:20171999
 
-1. Schultz, E.L., Eckberg, J.O., Berg, S.S., Louda, S.M., and T.E.X. Miller. (2017) [Native insect herbivory overwhelms context-dependence to limit complex invasion dynamics of exotic weeds](http://www.owlnet.rice.edu/~tm9/pdf/Schultz_et_al-2017-Ecology_Letters.pdf). Ecology Letters 20:1374-1384
+1. Schultz, E.L., Eckberg, J.O., Berg, S.S., Louda, S.M., and T.E.X. Miller. (2017) [Native insect herbivory overwhelms context-dependence to limit complex invasion dynamics of exotic weeds](/texmiller_publications/Schultz_et_al-2017-Ecology_Letters.pdf). Ecology Letters 20:1374-1384
 
-1. Eberhart-Phillips, L.J., C. Küpper, T.E.X. Miller, M. Cruz-López, K.H. Maher, N. dos Remedios, M.A. Stoffel, J.I. Hoffman, O. Krüger, and T. Székely. (2017) [Adult sex ratio bias in snowy plovers is driven by sex-specific early survival: implications for mating systems and population growth](http://www.owlnet.rice.edu/~tm9/pdf/PNAS-2017-Eberhart-Phillips.pdf). Proceedings of the National Academy of Sciences 114: E5474-E5481
+1. Eberhart-Phillips, L.J., C. Küpper, T.E.X. Miller, M. Cruz-López, K.H. Maher, N. dos Remedios, M.A. Stoffel, J.I. Hoffman, O. Krüger, and T. Székely. (2017) [Sex-specific early survival drives adult sex ratio bias in snowy plovers and impacts mating system and population growth](/texmiller_publications/PNAS-2017-Eberhart-Phillips.pdf). Proceedings of the National Academy of Sciences 114: E5474-E5481
 
-1. Sullivan, L.L., Li, B., Miller, T.E.X., Neubert, M.G., and A.K. Shaw. (2017) [Density dependence in demography and dispersal generates fluctuating invasion speeds](http://www.owlnet.rice.edu/~tm9/pdf/PNAS-2017-Sullivan.pdf). Proceedings of the National Academy of Sciences 114:5053-5058
+1. Sullivan, L.L., Li, B., Miller, T.E.X., Neubert, M.G., and A.K. Shaw. (2017) [Density dependence in demography and dispersal generates fluctuating invasion speeds](/texmiller_publications/PNAS-2017-Sullivan.pdf). Proceedings of the National Academy of Sciences 114:5053-5058
 
 1. Sneck, M.E., Rudgers, J.A., Young, C.A. and T.E.X. Miller. (2017) [Variation in the prevalence and transmission of heritable symbionts across host populations in heterogeneous environments](http://www.owlnet.rice.edu/~tm9/pdf/Sneck%20et%20al.%202017%20Microbial%20Ecology.pdf). Microbial Ecology 74:640-653
 
