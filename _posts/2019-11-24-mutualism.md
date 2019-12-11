@@ -14,4 +14,4 @@ We work with a variety of systems to address how mutualistic interactions -- and
 
 * Miller, T.E.X. 2007. Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants. Oikos 116: 500-512.
 
-\textit{Could add in more citations here}
+**Could add in more citations here**
