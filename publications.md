@@ -92,7 +92,7 @@ order: 4
 
 1. Miller, T.E.X. 2008. [Bottom-up, top-down, and within-trophic level pressures on a cactus-feeding insect](/texmiller_publications/Miller_EcolEnt_2008.pdf). Ecological Entomology 33: 261-268.
 
-1. Miller, T.E.X. 2007. [Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants](/texmiller_publications/Miller_2007_Oikos.pdf). Oikos 116: 500-512.
+1. Miller, T.E.X. 2007. [Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants](/texmiller_publications/Miller_2007_Oikos.PDF). Oikos 116: 500-512.
 
 1. Miller, T.E.X. 2007. [Demographic models reveal the shape of density dependence for a specialist insect herbivore on variable host-plants](/texmiller_publications/Miller_2007_JAnimalEcol.pdf). Journal of Animal Ecology 76: 722-729.
 
