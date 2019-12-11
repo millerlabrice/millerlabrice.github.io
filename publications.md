@@ -59,41 +59,41 @@ order: 4
 
 1. Miller, T.E.X. and B.D. Inouye. (2013) [Sex and stochasticity affect range expansion of experimental invasions](/texmiller_publications/Miller_et_al-2013-Ecology_Letters.pdf). Ecology Letters 16(3):354-361.
 
-1. Williams, J.L., T.E.X. Miller, and S.P. Ellner. 2012. Avoiding unintentional eviction from integral projection models. Ecology 93:2008-2014.
+1. Williams, J.L., T.E.X. Miller, and S.P. Ellner. 2012. [Avoiding unintentional eviction from integral projection models](/texmiller_publications/Williams_et_al-2012-Ecology.pdf). Ecology 93:2008-2014.
 
-1. Miller, T.E.X., J.L. Williams, E. Jongejans, R. Brys, and H. Jacquemyn. 2012. Evolutionary demography of iteroparous plants: incorporating non-lethal costs of reproduction into integral projection models. Proceedings of the Royal Society Series B 279:2831-2840.
+1. Miller, T.E.X., J.L. Williams, E. Jongejans, R. Brys, and H. Jacquemyn. 2012. [Evolutionary demography of iteroparous plants: incorporating non-lethal costs of reproduction into integral projection models](/texmiller_publications/rspb.2012.0326.pdf). Proceedings of the Royal Society Series B 279:2831-2840.
 
-1. Rudgers, J.A., Miller, T.E.X., Ziegler, S.M., and K.D. Craven. 2012. There are many ways to be a mutualist: Endophytic fungus reduces plant survival but increases population growth. Ecology 93:565-574
+1. Rudgers, J.A., Miller, T.E.X., Ziegler, S.M., and K.D. Craven. 2012. [There are many ways to be a mutualist: Endophytic fungus reduces plant survival but increases population growth](/texmiller_publications/Rudgersetal2012_Ecology.pdf). Ecology 93:565-574
 
-1. Lee, C.T., Miller, T.E.X., and B.D. Inouye. 2011. Consumer effects on the vital rates of their resource can determine the outcome of competition between consumers. American Naturalist 178:452-463
+1. Lee, C.T., Miller, T.E.X., and B.D. Inouye. 2011. [Consumer effects on the vital rates of their resource can determine the outcome of competition between consumers](texmiller_publications/Lee_etal_2011_AmNat.pdf). American Naturalist 178:452-463
 
-1. Miller, T.E.X. and B.D. Inouye. 2011. Confronting two-sex demographic models with data. Ecology 92: 2141-2151.
+1. Miller, T.E.X. and B.D. Inouye. 2011. [Confronting two-sex demographic models with data](texmiller_publications/MilleInouye2011Ecology.pdf). Ecology 92: 2141-2151.
 
-1. Miller, T.E.X. and V.H.W Rudolf. 2011. Thinking inside the box: community-level consequences of stage-structured populations. Trends in Ecology and Evolution 26:457-466.
+1. Miller, T.E.X. and V.H.W Rudolf. 2011. [Thinking inside the box: community-level consequences of stage-structured populations](/texmiller_publications/MillerRudolf2011TREE.pdf). Trends in Ecology and Evolution 26:457-466.
 
-1. Miller, T.E.X., A.K. Shaw, B.D. Inouye, and M.G. Neubert. 2011. Sex-biased dispersal and the speed of two-sex invasions. American Naturalist 177 (5):549-561.
+1. Miller, T.E.X., A.K. Shaw, B.D. Inouye, and M.G. Neubert. 2011. [Sex-biased dispersal and the speed of two-sex invasions](/texmiller_publications/Miller_et_al_2011_AmNat.pdf). American Naturalist 177 (5):549-561.
 
-1. Holland, J.N., S.A. Chamberlain, and T.E.X. Miller. 2011. Consequences of ants and extrafloral nectar for a pollinating seed-consuming mutualism: ant satiation, floral distraction, or plant defense? Oikos 120 (3): 381-388.
+1. Holland, J.N., S.A. Chamberlain, and T.E.X. Miller. 2011. [Consequences of ants and extrafloral nectar for a pollinating seed-consuming mutualism: ant satiation, floral distraction, or plant defense?](/texmiller_publications/2011HollandetalOikos.pdf) Oikos 120 (3): 381-388.
 
-1. Miller, T.E.X., J.C. Legaspi, B. Legaspi. 2010. Experimental test of biotic resistance to an invasive herbivore provided by potential plant mutualists. Biological Invasions 12(10):3563-3577.
+1. Miller, T.E.X., J.C. Legaspi, B. Legaspi. 2010. [Experimental test of biotic resistance to an invasive herbivore provided by potential plant mutualists](/texmiller_publications/Miller_etal2010BioInv). Biological Invasions 12(10):3563-3577.
 
-1. Miller, T.E.X. and B. Tenhumberg. 2010. Contributions of demography and dispersal parameters to the spatial spread of a stage-structured insect invasion: a comparison of local and global perturbation analyses. Ecological Applications 20 (3):620-633.
+1. Miller, T.E.X. and B. Tenhumberg. 2010. [Contributions of demography and dispersal parameters to the spatial spread of a stage-structured insect invasion: a comparison of local and global perturbation analyses](/texmiller_publications/MillerTenhumberg2010EcolApp.pdf). Ecological Applications 20 (3):620-633.
 
-1. Rominger, A.J., Miller, T.E.X., and Collins, S.L. 2009. Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community. Oecologia 161 (4): 791-800.
+1. Rominger, A.J., Miller, T.E.X., and Collins, S.L. 2009. [Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community](/texmiller_publications/Romingeretal.2009.pdf). Oecologia 161 (4): 791-800.
 
-1. Robbins, M. and T.E.X. Miller. 2009. Patterns of ant activity on Opuntia stricta (Cactaceae), a native host-plant of the invasive cactus moth, Cactoblastis cactorum (Lepidoptera: Pyralidae). Florida Entomologist  92:391-393.
+1. Robbins, M. and T.E.X. Miller. 2009. [Patterns of ant activity on Opuntia stricta (Cactaceae), a native host-plant of the invasive cactus moth, Cactoblastis cactorum (Lepidoptera: Pyralidae)](/texmiller_publications/RobbinsandMiller2009_Florida Entomologist.pdf). Florida Entomologist  92:391-393.
 
-1. Miller, T.E.X., S.M. Louda, K.A. Rose, and J. Eckberg. 2009. Impacts of chronic insect herbivory on cactus population dynamics and distribution: experimental demography across an environmental gradient. Ecological Monographs 79:155-172.
+1. Miller, T.E.X., S.M. Louda, K.A. Rose, and J. Eckberg. 2009. [Impacts of chronic insect herbivory on cactus population dynamics and distribution: experimental demography across an environmental gradient](/texmiller_publications/Miller_etal_2009_EcoMonographs.pdf). Ecological Monographs 79:155-172.
 
-1. Takahashi, M., Louda, S.M., Miller, T.E.X., and C.W. O’Brien. 2009. Occurrence of the biological control weevil, Trichosirocalus horridus (Panzer), on a newly acquired native host plant and on a pre-adapted, targeted exotic thistle. Environmental Entomology 38:731-740.
+1. Takahashi, M., Louda, S.M., Miller, T.E.X., and C.W. O’Brien. 2009. [Occurrence of the biological control weevil, Trichosirocalus horridus (Panzer), on a newly acquired native host plant and on a pre-adapted, targeted exotic thistle](/texmiller_publications/Takahashi_et_al_2009_EnviroEnt.pdf). Environmental Entomology 38:731-740.
 
-1. Miller, T.E.X., B. Tenhumberg, and S.M Louda. 2008. Herbivore-mediated ecological costs of reproduction shape the life-history of an iteroparous plant. American Naturalist 171: 141-149. (Featured article of February 2008 issue)
+1. Miller, T.E.X., B. Tenhumberg, and S.M Louda. 2008. [Herbivore-mediated ecological costs of reproduction shape the life-history of an iteroparous plant](/texmiller_publications/Miller_et_al_AmNat2008.pdf). American Naturalist 171: 141-149. (Featured article of February 2008 issue)
 *Featured on This Week in Evolution: Feb 18, 2008; Winner of the 2009 American Naturalist best student paper award*
 
-1. Miller, T.E.X. 2008. Bottom-up, top-down, and within-trophic level pressures on a cactus-feeding insect. Ecological Entomology 33: 261-268.
+1. Miller, T.E.X. 2008. [Bottom-up, top-down, and within-trophic level pressures on a cactus-feeding insect](/texmiller_publications/Miller_EcolEnt_2008.pdf). Ecological Entomology 33: 261-268.
 
-1. Miller, T.E.X. 2007. Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants. Oikos 116: 500-512.
+1. Miller, T.E.X. 2007. [Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants](/texmiller_publications/Miller_2007_Oikos.pdf). Oikos 116: 500-512.
 
-1. Miller, T.E.X. 2007. Demographic models reveal the shape of density dependence for a specialist insect herbivore on variable host-plants. Journal of Animal Ecology 76: 722-729.
+1. Miller, T.E.X. 2007. [Demographic models reveal the shape of density dependence for a specialist insect herbivore on variable host-plants](/texmiller_publications/Miller_2007_JAnimalEcol.pdf). Journal of Animal Ecology 76: 722-729.
 
-1. Miller, T.E.X., A.J. Tyre, and S.M. Louda. 2006. Plant reproductive allocation predicts herbivore dynamics across spatial and temporal scales. American Naturalist 168: 608-616.
+1. Miller, T.E.X., A.J. Tyre, and S.M. Louda. 2006. [Plant reproductive allocation predicts herbivore dynamics across spatial and temporal scales](/texmiller_publications/Miller_et_al_2006_AmNat.pdf). American Naturalist 168: 608-616.
