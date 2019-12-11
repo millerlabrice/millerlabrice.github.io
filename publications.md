@@ -11,9 +11,9 @@ order: 4
 
 1. Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](/texmiller_publications/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
 
-1. Iler, A.M., Compagnoni, A.C., Inouye, D.W., Williams, J., CaraDonna, P.J., Anderson, A., and T.E.X. Miller. (2019) [Reproductive losses due to climate change-induced earlier flowering are not the primary threat to plant population viability in a perennial herb](/texmiller_publications/Iler et al. 2019 JEcol.pdf). Journal of Ecology 107: 1931-1943
+1. Iler, A.M., Compagnoni, A.C., Inouye, D.W., Williams, J., CaraDonna, P.J., Anderson, A., and T.E.X. Miller. (2019) [Reproductive losses due to climate change-induced earlier flowering are not the primary threat to plant population viability in a perennial herb]("/texmiller_publications/Iler et al. 2019 JEcol.pdf"). Journal of Ecology 107: 1931-1943
 
-1. Sneck, M.E., Rudgers, J.A., Young, C.A.Y. and T.E.X. Miller. (2019) [Does host outcrossing disrupt compatibility with heritable symbionts?](/texmiller_publications/Sneck et al. 2019 Oikos.pdf). Oikos 128: 892-903
+1. Sneck, M.E., Rudgers, J.A., Young, C.A.Y. and T.E.X. Miller. (2019) [Does host outcrossing disrupt compatibility with heritable symbionts?]("/texmiller_publications/Sneck et al. 2019 Oikos.pdf"). Oikos 128: 892-903
 
 1. Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](/texmiller_publications/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
 
