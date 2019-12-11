@@ -5,10 +5,9 @@ layout: page
 
 
 Mutualisms, positive interactions between species, are widespread and notoriously context dependent.
-
-We work with a variety of systems to address how mutualistic interactions -- and their context-dependent effects -- affect population dynamics. 
-<img style="float: right;" src="{{ 'assets/images/ants_cholla.jpg' | relative_url }}" width="413.75" height="374.5" alt="L. apiculatum feeding on C. imbricata extra-floral nectar"  /> 
-Some of our favorite systems include ants and cacti and fungal endophytes and grasses. 
+ 
+<img style="float: right;" src="{{ 'assets/images/ants_cholla.jpg' | relative_url }}" width="413.75" height="374.5" hspace="10" alt="L. apiculatum feeding on C. imbricata extra-floral nectar"  /> 
+We work with a variety of systems to address how mutualistic interactions -- and their context-dependent effects -- affect population dynamics. Some of our favorite systems include ants and cacti and fungal endophytes and grasses. 
 
 * Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](http://www.owlnet.rice.edu/~tm9/pdf/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
 
