@@ -13,8 +13,8 @@ This context dependent nature can shift the direction of these interactions, the
 <br>
 <br>
 
-* Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](http://www.owlnet.rice.edu/~tm9/pdf/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
+* Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](/texmiller_publications/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
 
-* Miller, T.E.X. 2007. Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants. Oikos 116: 500-512.
+* Miller, T.E.X. 2007. [Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants](/texmiller_publications/Miller_2007_Oikos.pdf). Oikos 116: 500-512.
 
 *Could add in more citations here*
