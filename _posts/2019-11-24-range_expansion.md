@@ -2,7 +2,7 @@
 title: Range Expansion
 layout: page
 ---
-<h4>Dispersal is a key demographic process that links disparate populations and communities, and that influences species ranges.</h4> 
+<strong>Dispersal is a key process that links disparate populations and communities, and that influences species ranges.</strong> 
 <img style="float: right; margin: 0px 0px 0px 10px;" src="{{ 'assets/images/baby_creosote.jpg' | relative_url }}" width="315" height="315" alt="creosote"  /> 
 Invasive species and climatically driven range shifts are two of the most pressing problems in ecology. Understanding the mechanisms that underpin these range expansions is a central goal of the lab. 
 Recent and current work on range expansions explores how climate may drive shifts in vegetation ecotones across natural 
