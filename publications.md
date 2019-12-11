@@ -51,13 +51,13 @@ order: 4
 
 1. Miller, T.E.X. (2014) [Plant size and reproductive state affect the quantity and quality of rewards to animal mutualists](/tex_publications/Miller2014JEcology.pdf). Journal of Ecology 102:496-507.
 
-1. Miller, T.E.X. and J.A. Rudgers. (2014) Niche differentiation in the dynamics of host-symbiont interactions: symbiont prevalence as a coexistence problem. American Naturalist 183 (4):506-518.
+1. Miller, T.E.X. and J.A. Rudgers. (2014) [Niche differentiation in the dynamics of host-symbiont interactions: symbiont prevalence as a coexistence problem](/texmiller_publications/MillerRudgers2014AmNat.pdf). American Naturalist 183 (4):506-518.
 
-1. Snyder, K.T., Freidenfelds, N., and T.E.X. Miller. (2014) Consequences of sex-selective harvesting and harvest refuges in experimental metapopulations. Oikos. 123:309-314
+1. Snyder, K.T., Freidenfelds, N., and T.E.X. Miller. (2014) [Consequences of sex-selective harvesting and harvest refuges in experimental metapopulations](/texmiller_publications/Snyder2014Oikos.pdf). Oikos. 123:309-314
 
-1. Yule, KM, Miller, TEX, and JA Rudgers. (2013) Costs, benefits, and loss of vertically transmitted symbionts affect host population dynamics. Oikos 122: 1512-1520.
+1. Yule, KM, Miller, TEX, and JA Rudgers. (2013) [Costs, benefits, and loss of vertically transmitted symbionts affect host population dynamics](/texmiller_publications/Yule_Oikos2013/pdf). Oikos 122: 1512-1520.
 
-1. Miller, T.E.X. and B.D. Inouye. (2013) Sex and stochasticity affect range expansion of experimental invasions. Ecology Letters 16(3):354-361.
+1. Miller, T.E.X. and B.D. Inouye. (2013) [Sex and stochasticity affect range expansion of experimental invasions](/texmiller_publications/Miller_et_al-2013-Ecology_Letters.pdf). Ecology Letters 16(3):354-361.
 
 1. Williams, J.L., T.E.X. Miller, and S.P. Ellner. 2012. Avoiding unintentional eviction from integral projection models. Ecology 93:2008-2014.
 
