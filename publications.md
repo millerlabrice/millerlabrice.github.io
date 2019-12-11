@@ -29,9 +29,9 @@ order: 4
 
 1. Sneck, M.E., Rudgers, J.A., Young, C.A. and T.E.X. Miller. (2017) [Variation in the prevalence and transmission of heritable symbionts across host populations in heterogeneous environments](/texmiller_publications/Sneck_et_al._2017_Microbial_Ecology.pdf). Microbial Ecology 74:640-653
 
-1. Ochocki, B.M. and T.E.X. Miller. (2017) [Rapid evolution of dispersal ability increases the speed and variability of biological invasions](/texmiller_publications/Ochocki&Miller_2017_NatComm.pdf). Nature Communications 8:14315 (Press coverage: Nature Research Highlights, BBC Science in Action, [Rice News Video](https://news.rice.edu/2017/01/27/beetles-born-on-the-edge-make-invasion-faster-2/).)
+1. Ochocki, B.M. and T.E.X. Miller. (2017) [Rapid evolution of dispersal ability increases the speed and variability of biological invasions](/texmiller_publications/Ochocki&Miller_2017_NatComm.pdf). Nature Communications 8:14315 (Press coverage: [Nature Research Highlights](https://www.nature.com/articles/542140d), BBC Science in Action, [Rice News Video](https://news.rice.edu/2017/01/27/beetles-born-on-the-edge-make-invasion-faster-2/).)
 
-1. Wagner, N.K., Ochocki, B.M., Compagnoni, A., Crawford, K.M., and T.E.X. Miller. (2017) [Genetic mixture of multiple source populations accelerates invasive range expansion](http://www.owlnet.rice.edu/~tm9/pdf/Wagner_et_al-2017-Journal_of_Animal_Ecology.pdf). Journal of Animal Ecology 86:21-34 (In Focus commentary by R. Hufbauer)
+1. Wagner, N.K., Ochocki, B.M., Compagnoni, A., Crawford, K.M., and T.E.X. Miller. (2017) [Genetic mixture of multiple source populations accelerates invasive range expansion](http://www.owlnet.rice.edu/~tm9/pdf/Wagner_et_al-2017-Journal_of_Animal_Ecology.pdf). Journal of Animal Ecology 86:21-34 ([In Focus commentary by R. Hufbauer](/texmiller_publications/Hufbauer-2016-Journal_of_Animal_Ecology.pdf))
 
 1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Rogers, H.S., Schultz, E., Sneck, M.E., Elderd, B.D., Iler, A., Inouye, D., Jacquemyn, H. and T.E.X. Miller. (2016) [The effect of demographic correlations on the stochastic population dynamics of perennial plants](http://www.owlnet.rice.edu/~tm9/pdf/Compagnoni_et_al-2016-Ecological_Monographs.pdf). Ecological Monographs 86:125-144
 
