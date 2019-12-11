@@ -1,7 +1,6 @@
 ---
 title: Mutualism
-layout: post
-date: null
+layout: page
 ---
 
 
