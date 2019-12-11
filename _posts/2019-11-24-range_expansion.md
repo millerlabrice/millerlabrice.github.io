@@ -13,5 +13,7 @@ landscapes at the Sevillita National Wildlife Refuge, how climate mediates speci
 
 <strong>Check out this video for a highlight of work led by former Miller Lab member, Brad Ochocki!</strong>
 
+<p align="center">
 <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/Afma90GhsfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
