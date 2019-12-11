@@ -11,8 +11,6 @@ layout: page
 <br>
 <br>
 <br>
-<br>
-
 
 Check out some of our research some recent publications:
 
