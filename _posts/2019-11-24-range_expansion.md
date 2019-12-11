@@ -16,3 +16,13 @@ landscapes at the Sevillita National Wildlife Refuge, how climate mediates speci
 <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/Afma90GhsfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<br>
+<br>
+
+And see some of our relevant publications:
+
+* Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](/texmiller_publications/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
+
+* Sullivan, L.L., Li, B., Miller, T.E.X., Neubert, M.G., and A.K. Shaw. (2017) [Density dependence in demography and dispersal generates fluctuating invasion speeds](/texmiller_publications/PNAS-2017-Sullivan.pdf). Proceedings of the National Academy of Sciences 114:5053-5058
+
+* Ochocki, B.M. and T.E.X. Miller. (2017) [Rapid evolution of dispersal ability increases the speed and variability of biological invasions](/texmiller_publications/Ochocki&Miller_2017_NatComm.pdf). Nature Communications 8:14315 
