@@ -33,23 +33,23 @@ order: 4
 
 1. Wagner, N.K., Ochocki, B.M., Compagnoni, A., Crawford, K.M., and T.E.X. Miller. (2017) [Genetic mixture of multiple source populations accelerates invasive range expansion](http://www.owlnet.rice.edu/~tm9/pdf/Wagner_et_al-2017-Journal_of_Animal_Ecology.pdf). Journal of Animal Ecology 86:21-34 ([In Focus commentary by R. Hufbauer](/texmiller_publications/Hufbauer-2016-Journal_of_Animal_Ecology.pdf))
 
-1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Rogers, H.S., Schultz, E., Sneck, M.E., Elderd, B.D., Iler, A., Inouye, D., Jacquemyn, H. and T.E.X. Miller. (2016) [The effect of demographic correlations on the stochastic population dynamics of perennial plants](http://www.owlnet.rice.edu/~tm9/pdf/Compagnoni_et_al-2016-Ecological_Monographs.pdf). Ecological Monographs 86:125-144
+1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Rogers, H.S., Schultz, E., Sneck, M.E., Elderd, B.D., Iler, A., Inouye, D., Jacquemyn, H. and T.E.X. Miller. (2016) [The effect of demographic correlations on the stochastic population dynamics of perennial plants](/texmiller_publications/Compagnoni_et_al-2016-Ecological_Monographs.pdf). Ecological Monographs 86:125-144
 
-1. Petry, W.K., Soule, J.D., Iler, A.M., Chicas-Mosier, A., Inouye, D.W., Miller, T.E.X. and K.A. Mooney. (2016) Sex-specific responses to climate change in plants alter population sex ratio and performance. Science 353:69-71
+1. Petry, W.K., Soule, J.D., Iler, A.M., Chicas-Mosier, A., Inouye, D.W., Miller, T.E.X. and K.A. Mooney. (2016) [Sex-specific responses to climate change in plants alter population sex ratio and performance](/texmiller_publications/Petry_et_al_2016.pdf). Science 353:69-71
 
-1. Bibian, A.J., Rudgers, J.A. and T.E.X. Miller. (2016) The role of host demographic storage in the ecological dynamics of heritable symbionts. American Naturalist 188:446-459
+1. Bibian, A.J., Rudgers, J.A. and T.E.X. Miller. (2016) [The role of host demographic storage in the ecological dynamics of heritable symbionts](/texmiller_publications/Bibian_et_al._2016_AmNat.pdf). American Naturalist 188:446-459
 
-1. Elderd, B.D. and T.E.X. Miller. (2016) Quantifying demographic uncertainty: Bayesian methods for Integral Projection Models. Ecological Monographs 86:125-144
+1. Elderd, B.D. and T.E.X. Miller. (2016) [Quantifying demographic uncertainty: Bayesian methods for Integral Projection Models](/texmiller_publications/ElderdMiller2016.pdf). Ecological Monographs 86:125-144
 
-1. Downey, M.H., Searle, R., Bullur, S., Geiger, A., Maitner, B.S., Ohm, J., Tuda, M. and T.E.X. Miller. (2015) A comparative approach for testing hypotheses for the evolution of sex-biased dispersal in beetle beetles. Ecology and Evolution 5:4819-4828
+1. Downey, M.H., Searle, R., Bullur, S., Geiger, A., Maitner, B.S., Ohm, J., Tuda, M. and T.E.X. Miller. (2015) [A comparative approach for testing hypotheses for the evolution of sex-biased dispersal in beetle beetles](/texmiller_publications/Downey2015.pdf). Ecology and Evolution 5:4819-4828
 
-1. Chung, Y.A., Miller, T.E.X., and J.A. Rudgers. (2015) Fungal symbionts maintain rare host plant populations but demographic advantage drives the dominance of common hosts. Journal of Ecology 103:798-808
+1. Chung, Y.A., Miller, T.E.X., and J.A. Rudgers. (2015) [Fungal symbionts maintain rare host plant populations but demographic advantage drives the dominance of common hosts](/texmiller_publications/Chung_et_al._2015_JEcol). Journal of Ecology 103:798-808
 
-1. Williams, J.L., Jacquemyn, H., Ochocki, B., Brys, R. and T.E.X. Miller. (2015) Life history evolution under climate change and its influence on the population dynamics of a long-lived plant. Journal of Ecology 103:798-808
+1. Williams, J.L., Jacquemyn, H., Ochocki, B., Brys, R. and T.E.X. Miller. (2015) [Life history evolution under climate change and its influence on the population dynamics of a long-lived plant](/texmiller_publications/Williams_et_al._2015_JEcol.pdf). Journal of Ecology 103:798-808
 
-1. Ohm, J.R. And T.E.X. Miller. (2014) Balancing anti-herbivore benefits and anti-pollinator costs of defensive mutualists. Ecology 95:2924-2935.
+1. Ohm, J.R. And T.E.X. Miller. (2014) [Balancing anti-herbivore benefits and anti-pollinator costs of defensive mutualists](/texmiller_publications/OhmMiller_2014_Ecology.pdf). Ecology 95:2924-2935.
 
-1. Miller, T.E.X. (2014) Plant size and reproductive state affect the quantity and quality of rewards to animal mutualists. Journal of Ecology 102:496-507.
+1. Miller, T.E.X. (2014) [Plant size and reproductive state affect the quantity and quality of rewards to animal mutualists](/tex_publications/Miller2014JEcology.pdf). Journal of Ecology 102:496-507.
 
 1. Miller, T.E.X. and J.A. Rudgers. (2014) Niche differentiation in the dynamics of host-symbiont interactions: symbiont prevalence as a coexistence problem. American Naturalist 183 (4):506-518.
 
