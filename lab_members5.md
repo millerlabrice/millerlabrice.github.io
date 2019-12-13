@@ -175,10 +175,10 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Sex-specific demographic performance and population dynamics in dioecious plant species under biotic and abiotic stress.</p>
+                                        <p>Sex-specific demographic performance and population dynamics in dioecious plant species under biotic and abiotic stress in the Anthropocene.</p>
                                     </div>
                                      <div class="s-link">
-                                        <a href="https://scholar.google.com/citations?user=H7RzIz8AAAAJ&hl=zh-CN"><i class="fab fa-google"></i></a>
+                                        <a href="https://scholar.google.com/citations?hl=zh-CN&user=H7RzIz8AAAAJ&view_op=list_works&sortby=pubdate"><i class="fab fa-google"></i></a>
                                            <a href="mailto:td30@rice.edu"><i class="fa fa-envelope"></i></a>
                                     </div>
                                 </div>
