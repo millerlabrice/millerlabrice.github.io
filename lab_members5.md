@@ -175,7 +175,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Population ecology in dioecious plant species in the Anthropocene.</p>
+                                        <p>Population ecology of dioecious plant species in the Anthropocene.</p>
                                     </div>
                                      <div class="s-link">
                                         <a href="https://scholar.google.com/citations?hl=zh-CN&user=H7RzIz8AAAAJ&view_op=list_works&sortby=pubdate"><i class="fab fa-google"></i></a>
