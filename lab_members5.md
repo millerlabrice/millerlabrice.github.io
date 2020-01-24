@@ -311,11 +311,11 @@ tr:nth-child(even) {
 |:----------:|:-------------:|:------:
 | Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State 
 | Nakian Kim |   Senior thesis 2018   | Ph.D. student, Crop Sciences, U. Illinois 
-| Emily Schultz | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona 
+| <a> href="http://emilylschultz.weebly.com/"> Emily Schultz</a> | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona 
 | Michael Saucedo	| Lab manager 2018	| Teacher - NYC
 | Michelle Sneck	| Ph.D. 2017	| Data Scientist, USAA
 | <a href="https://bradochocki.com"> Brad Ochocki</a>	| Ph.D. 2017	| Data Scientist, Croptix
-| <a href="https://aldocompagnoni.weebly.com">Aldo Compagnoni</a>	| Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv) 
+| <a href="https://aldocompagnoni.weebly.com">Aldo Compagnoni</a> | Postdoc 2013-17	| German Centre for Integrative Biodiversity Research (iDiv) 
 | Kevin Czachura	| Senior thesis 2017	| English instructor, Japan
 | Belle Harris | Senior thesis 2017| 	
 | Andrew Bibian	| M.S. 2015, Database Developer 2016-17|  Data Scientist, Insight
