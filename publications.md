@@ -7,7 +7,7 @@ order: 4
 
 1. Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network. Methods in Ecology and Evolution (in press)
 
-1. Ochocki, B.M., Saltz, J.B. and T.E.X. Miller. (2019) Demography-dispersal trait correlations modify the eco-evolutionary dynamics of range expansion. American Naturalist (in press)
+1. Ochocki, B.M., Saltz, J.B. and T.E.X. Miller. (2020) [Demography-dispersal trait correlations modify the eco-evolutionary dynamics of range expansion](/texmiller_publications/Ochocki2020.pdf). American Naturalist 195:2 231-246 
 
 1. Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](/texmiller_publications/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
 
