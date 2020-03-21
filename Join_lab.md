@@ -1,7 +1,7 @@
 ---
 title: Join the Lab!
 layout: "page"
-icon: fa-door open
+icon: fa-dooropen
 order: 5
 ---
 
