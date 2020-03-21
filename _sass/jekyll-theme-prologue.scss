@@ -457,7 +457,7 @@
 		header {
 			color: #666;
 			text-align: center;
-			background: #fff;
+			background: #ffff;
 			margin: 0;
 			padding: 1em;
 			font-size: 0.8em;
@@ -490,7 +490,7 @@
 		@include vendor('justify-content', 'space-between');
 		background: #222629 url('images/overlay.png');
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-		color: #ffff;
+		color: #000000;
 		height: 100%;
 		left: 0;
 		overflow-y: auto;
@@ -669,12 +669,12 @@
 				}
 
 				strong {
-					color: #ffff;
+					color: #000000;
 					border-color: inherit;
 				}
 
 				a {
-					color: #ffff;
+					color: #000000;
 					border-color: inherit;
 
 					&:hover {
