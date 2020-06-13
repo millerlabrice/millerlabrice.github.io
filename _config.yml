@@ -32,7 +32,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Miller Lab
-subtitle: Population Dynamics at Rice University
+#subtitle: Demography--Dispersal--Population Dynamics
 description: Miller Lab Wesbite at Rice University in the Department of BioSciences
 author: Miller Lab 
 email: tom.miller@rice.edu
