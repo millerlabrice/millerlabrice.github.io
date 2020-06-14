@@ -1,6 +1,7 @@
 ---
 title: Theoretical Ecology
 layout: page
+published: false
 ---
 
 <strong>As quantitative population biologists, our lab seeks to understand how populations work. Understanding the demographic processes that determine population growth in nature can be complicated. Our work relies heavily on the development and application of mathematical models, especially structured population models, which allow us to connect individual demography and dispersal to population-level processes.</strong> 
