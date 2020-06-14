@@ -79,7 +79,7 @@ Miller, T.E.X. and B.D. Inouye. 2011. [Confronting two-sex demographic models wi
 
 Miller, T.E.X. and V.H.W Rudolf. 2011. [Thinking inside the box: community-level consequences of stage-structured populations](/texmiller_publications/MillerRudolf2011TREE.pdf). Trends in Ecology and Evolution 26:457-466.
 
-Miller, T.E.X., A.K. Shaw, B.D. Inouye, and M.G. Neubert. 2011. [Sex-biased dispersal and the speed of two-sex invasions](/texmiller_publications/Miller_et_al_2011_AmNat.pdf). American Naturalist 177 (5):549-561.
+^Miller, T.E.X., ^A.K. Shaw, B.D. Inouye, and M.G. Neubert. 2011. [Sex-biased dispersal and the speed of two-sex invasions](/texmiller_publications/Miller_et_al_2011_AmNat.pdf). American Naturalist 177 (5):549-561. (^Miller and Shaw contributed equally)
 
 Holland, J.N., S.A. Chamberlain, and T.E.X. Miller. 2011. [Consequences of ants and extrafloral nectar for a pollinating seed-consuming mutualism: ant satiation, floral distraction, or plant defense?](/texmiller_publications/2011HollandetalOikos.pdf) Oikos 120 (3): 381-388.
 
