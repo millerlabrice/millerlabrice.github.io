@@ -1,6 +1,7 @@
 ---
 title: Range Expansion
 layout: page
+published: false
 ---
 <strong>Dispersal is a key process that links disparate populations and communities, and that influences species ranges.</strong> 
 <img style="float: right; margin: 0px 0px 0px 10px;" src="{{ 'assets/images/baby_creosote.jpg' | relative_url }}" width="315" height="315" alt="creosote"  /> 
