@@ -147,12 +147,12 @@ body {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/tom_nm_final_crop2.jpg" alt="team member" class="img-responsive"  width="300" height="200">
+                                    <img src="/assets/images/tom.jpg" alt="team member" class="img-responsive"  width="300" height="200">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Population dynamics, quantitative ecology, and species interactions</p>
+                                        <p>Demography, dispersal, population dynamics, eco-evolutionary dynamics, quantitative and theoretical ecology, species interactions</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
@@ -311,7 +311,7 @@ tr:nth-child(even) {
 |:----------:|:-------------:|:------:
 | Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State 
 | Nakian Kim |   Senior thesis 2018   | Ph.D. student, Crop Sciences, U. Illinois 
-| <a> href="http://emilylschultz.weebly.com/"> Emily Schultz</a> | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona 
+| <a href="http://emilylschultz.weebly.com/"> Emily Schultz</a> | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona 
 | Michael Saucedo	| Lab manager 2018	| Teacher - NYC
 | Michelle Sneck	| Ph.D. 2017	| Data Scientist, USAA
 | <a href="https://bradochocki.com"> Brad Ochocki</a>	| Ph.D. 2017	| Data Scientist, Croptix
