@@ -7,13 +7,13 @@ order: 4
 
 Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. Eco-evolutionary dynamics of range expansion. Ecology (in press)
 
-Czachura, K. and ‡T.E.X. Miller. Subtle dimensions of climate change have strong demographic effects on a cactus population in extinction debt. Journal of Ecology (in press)
+Czachura, K. and T.E.X. Miller. Subtle dimensions of climate change have strong demographic effects on a cactus population in extinction debt. Journal of Ecology (in press)
 
-Liu, J., Zhang, R., Xu, X., †Fowler, J.C., Miller, T.E.X., Dong, T. Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances. Tree Physiology (in press)
+Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances. Tree Physiology (in press)
 
-Gundel, P., Sun, P., Charlton, N., Young, C.A., Miller, T.E.X., Rudgers, J.A. [Folivory increases vertical transmission of fungal endophytes that deter herbivores and alter plant tolerance of herbivory](/texmiller_publications/Gundel2020.pdf). Annals of Botany 125:981-991
+Gundel, P., Sun, P., Charlton, N., Young, C.A., Miller, T.E.X., Rudgers, J.A. [Folivory increases vertical transmission of fungal endophytes that deter herbivores and alter plant tolerance of herbivory](/texmiller_publications/Gundel et al. 2020 AoB.pdf). Annals of Botany 125:981-991
 
-Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) [popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network](/texmiller_publications/Compagnoni2020.pdf). Methods in Ecology and Evolution 11:258-264
+Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) [popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network](/texmiller_publications/Compagnoni et al. 2020 MEE.pdf). Methods in Ecology and Evolution 11:258-264
 
 Ochocki, B.M., Saltz, J.B. and T.E.X. Miller. (2020) [Demography-dispersal trait correlations modify the eco-evolutionary dynamics of range expansion](/texmiller_publications/Ochocki2020.pdf). American Naturalist 195:2 231-246 
 
