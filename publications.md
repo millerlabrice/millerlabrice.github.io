@@ -4,6 +4,7 @@ layout: "page"
 icon: fa-newspaper
 order: 4
 ---
+<strong>2020</strong>
 
 Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. Eco-evolutionary dynamics of range expansion. Ecology (in press)
 
@@ -13,9 +14,11 @@ Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. Effect of sum
 
 Gundel, P., Sun, P., Charlton, N., Young, C.A., Miller, T.E.X., Rudgers, J.A. [Folivory increases vertical transmission of fungal endophytes that deter herbivores and alter plant tolerance of herbivory](/texmiller_publications/Gundel2020AoB.pdf). Annals of Botany 125:981-991
 
-Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2019) [popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network](/texmiller_publications/Compagnoni2020MEE.pdf). Methods in Ecology and Evolution 11:258-264
+Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2020) [popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network](/texmiller_publications/Compagnoni2020MEE.pdf). Methods in Ecology and Evolution 11:258-264
 
 Ochocki, B.M., Saltz, J.B. and T.E.X. Miller. (2020) [Demography-dispersal trait correlations modify the eco-evolutionary dynamics of range expansion](/texmiller_publications/Ochocki2020.pdf). American Naturalist 195:2 231-246 
+
+<strong>2019</strong>
 
 Williams, J., Hufbauer, R., and T.E.X. Miller. (2019) [How evolution modifies the variability of range expansion](/texmiller_publications/Williams_TREE_preprint.pdf). Trends in Ecology and Evolution 34: 903-913
 
@@ -23,9 +26,13 @@ Iler, A.M., Compagnoni, A.C., Inouye, D.W., Williams, J., CaraDonna, P.J., Ander
 
 Sneck, M.E., Rudgers, J.A., Young, C.A.Y. and T.E.X. Miller. (2019) [Does host outcrossing disrupt compatibility with heritable symbionts?](/texmiller_publications/Sneck_et_al._2019_Oikos.pdf). Oikos 128: 892-903
 
+<strong>2018</strong>
+
 Cavazos, B.R., Sneck, M., Bohner, T., Donald, M.L., Shadow, A., Omacini, M., Rudgers, J.A., and T.E.X. Miller. (2018) [Testing the roles of vertical transmission and drought stress in the prevalence of heritable fungal endophytes in annual grass populations](/texmiller_publications/Cavazos_et_al-2018-New_Phytologist.pdf). New Phytologist 219:1075-1084
 
 Eberhart-Phillips, L.J., Kupper, C., Carmona-Isunza, M.C., Vincze, O., Zefania, S., Cruz-Lopez, M., Kosztolanyi, A., Miller, T.E.X., Barta, Z., Cuthill, I.C., Burke, T., Szekely, T., Hoffman, J.I. and O. Kruger. (2018) [Demographic causes of adult sex ratio variation and their consequences for parental cooperation](/texmiller_publications/Eberhart-Phillips_et_al_2018_NatComm.pdf). Nature Communications 9:1651
+
+<strong>2017</strong>
 
 Compagnoni, A.C., Steigman, K., and T.E.X. Miller. (2017) [Can't live with them, can't live without them? Balancing mating and competition in two-sex populations](/texmiller_publications/Compagnoni_2017_PRSB.pdf). Proceedings of the Royal Society Series B 284:20171999
 
@@ -41,6 +48,8 @@ Ochocki, B.M. and T.E.X. Miller. (2017) [Rapid evolution of dispersal ability in
 
 Wagner, N.K., Ochocki, B.M., Compagnoni, A., Crawford, K.M., and T.E.X. Miller. (2017) [Genetic mixture of multiple source populations accelerates invasive range expansion](http://www.owlnet.rice.edu/~tm9/pdf/Wagner_et_al-2017-Journal_of_Animal_Ecology.pdf). Journal of Animal Ecology 86:21-34 ([In Focus commentary by R. Hufbauer](/texmiller_publications/Hufbauer-2016-Journal_of_Animal_Ecology.pdf))
 
+<strong>2016</strong>
+
 Compagnoni, A., Bibian, A.J., Ochocki, B.M., Rogers, H.S., Schultz, E., Sneck, M.E., Elderd, B.D., Iler, A., Inouye, D., Jacquemyn, H. and T.E.X. Miller. (2016) [The effect of demographic correlations on the stochastic population dynamics of perennial plants](/texmiller_publications/Compagnoni_et_al-2016-Ecological_Monographs.pdf). Ecological Monographs 86:125-144
 
 Petry, W.K., Soule, J.D., Iler, A.M., Chicas-Mosier, A., Inouye, D.W., Miller, T.E.X. and K.A. Mooney. (2016) [Sex-specific responses to climate change in plants alter population sex ratio and performance](/texmiller_publications/Petry_et_al_2016.pdf). Science 353:69-71
@@ -49,11 +58,15 @@ Bibian, A.J., Rudgers, J.A. and T.E.X. Miller. (2016) [The role of host demograp
 
 Elderd, B.D. and T.E.X. Miller. (2016) [Quantifying demographic uncertainty: Bayesian methods for Integral Projection Models](/texmiller_publications/ElderdMiller2016.pdf). Ecological Monographs 86:125-144
 
+<strong>2015</strong>
+
 Downey, M.H., Searle, R., Bullur, S., Geiger, A., Maitner, B.S., Ohm, J., Tuda, M. and T.E.X. Miller. (2015) [A comparative approach for testing hypotheses for the evolution of sex-biased dispersal in beetle beetles](/texmiller_publications/Downey2015.pdf). Ecology and Evolution 5:4819-4828
 
 Chung, Y.A., Miller, T.E.X., and J.A. Rudgers. (2015) [Fungal symbionts maintain rare host plant populations but demographic advantage drives the dominance of common hosts](/texmiller_publications/Chung_et_al._2015_JEcol). Journal of Ecology 103:798-808
 
 Williams, J.L., Jacquemyn, H., Ochocki, B., Brys, R. and T.E.X. Miller. (2015) [Life history evolution under climate change and its influence on the population dynamics of a long-lived plant](/texmiller_publications/Williams_et_al._2015_JEcol.pdf). Journal of Ecology 103:798-808
+
+<strong>2014</strong>
 
 Ohm, J.R. And T.E.X. Miller. (2014) [Balancing anti-herbivore benefits and anti-pollinator costs of defensive mutualists](/texmiller_publications/OhmMiller_2014_Ecology.pdf). Ecology 95:2924-2935.
 
@@ -63,15 +76,21 @@ Miller, T.E.X. and J.A. Rudgers. (2014) [Niche differentiation in the dynamics o
 
 Snyder, K.T., Freidenfelds, N., and T.E.X. Miller. (2014) [Consequences of sex-selective harvesting and harvest refuges in experimental metapopulations](/texmiller_publications/Snyder2014Oikos.pdf). Oikos. 123:309-314
 
+<strong>2013</strong>
+
 Yule, KM, Miller, TEX, and JA Rudgers. (2013) [Costs, benefits, and loss of vertically transmitted symbionts affect host population dynamics](/texmiller_publications/Yule_Oikos2013/pdf). Oikos 122: 1512-1520.
 
 Miller, T.E.X. and B.D. Inouye. (2013) [Sex and stochasticity affect range expansion of experimental invasions](/texmiller_publications/Miller_et_al-2013-Ecology_Letters.pdf). Ecology Letters 16(3):354-361.
+
+<strong>2012</strong>
 
 Williams, J.L., T.E.X. Miller, and S.P. Ellner. 2012. [Avoiding unintentional eviction from integral projection models](/texmiller_publications/Williams_et_al-2012-Ecology.pdf). Ecology 93:2008-2014.
 
 Miller, T.E.X., J.L. Williams, E. Jongejans, R. Brys, and H. Jacquemyn. 2012. [Evolutionary demography of iteroparous plants: incorporating non-lethal costs of reproduction into integral projection models](/texmiller_publications/rspb.2012.0326.pdf). Proceedings of the Royal Society Series B 279:2831-2840.
 
 Rudgers, J.A., Miller, T.E.X., Ziegler, S.M., and K.D. Craven. 2012. [There are many ways to be a mutualist: Endophytic fungus reduces plant survival but increases population growth](/texmiller_publications/Rudgersetal2012_Ecology.pdf). Ecology 93:565-574
+
+<strong>2011</strong>
 
 Lee, C.T., Miller, T.E.X., and B.D. Inouye. 2011. [Consumer effects on the vital rates of their resource can determine the outcome of competition between consumers](texmiller_publications/Lee_etal_2011_AmNat.pdf). American Naturalist 178:452-463
 
@@ -83,9 +102,13 @@ Miller, T.E.X. and V.H.W Rudolf. 2011. [Thinking inside the box: community-level
 
 Holland, J.N., S.A. Chamberlain, and T.E.X. Miller. 2011. [Consequences of ants and extrafloral nectar for a pollinating seed-consuming mutualism: ant satiation, floral distraction, or plant defense?](/texmiller_publications/2011HollandetalOikos.pdf) Oikos 120 (3): 381-388.
 
+<strong>2010</strong>
+
 Miller, T.E.X., J.C. Legaspi, B. Legaspi. 2010. [Experimental test of biotic resistance to an invasive herbivore provided by potential plant mutualists](/texmiller_publications/Miller_etal2010BioInv). Biological Invasions 12(10):3563-3577.
 
 Miller, T.E.X. and B. Tenhumberg. 2010. [Contributions of demography and dispersal parameters to the spatial spread of a stage-structured insect invasion: a comparison of local and global perturbation analyses](/texmiller_publications/MillerTenhumberg2010EcolApp.pdf). Ecological Applications 20 (3):620-633.
+
+<strong>2009</strong>
 
 Rominger, A.J., Miller, T.E.X., and Collins, S.L. 2009. [Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community](/texmiller_publications/Romingeretal.2009.pdf). Oecologia 161 (4): 791-800.
 
@@ -95,13 +118,19 @@ Miller, T.E.X., S.M. Louda, K.A. Rose, and J. Eckberg. 2009. [Impacts of chronic
 
 Takahashi, M., Louda, S.M., Miller, T.E.X., and C.W. O’Brien. 2009. [Occurrence of the biological control weevil, Trichosirocalus horridus (Panzer), on a newly acquired native host plant and on a pre-adapted, targeted exotic thistle](/texmiller_publications/Takahashi_et_al_2009_EnviroEnt.pdf). Environmental Entomology 38:731-740.
 
+<strong>2008</strong>
+
 Miller, T.E.X., B. Tenhumberg, and S.M Louda. 2008. [Herbivore-mediated ecological costs of reproduction shape the life-history of an iteroparous plant](/texmiller_publications/Miller_et_al_AmNat2008.pdf). American Naturalist 171: 141-149. (Featured article of February 2008 issue)
 *Featured on This Week in Evolution: Feb 18, 2008; Winner of the 2009 American Naturalist best student paper award*
 
 Miller, T.E.X. 2008. [Bottom-up, top-down, and within-trophic level pressures on a cactus-feeding insect](/texmiller_publications/Miller_EcolEnt_2008.pdf). Ecological Entomology 33: 261-268.
 
+<strong>2007</strong>
+
 Miller, T.E.X. 2007. [Does having multiple partners weaken the benefits of facultative mutualism? A test with cacti and cactus-tending ants](/texmiller_publications/Miller_2007_Oikos.PDF). Oikos 116: 500-512.
 
 Miller, T.E.X. 2007. [Demographic models reveal the shape of density dependence for a specialist insect herbivore on variable host-plants](/texmiller_publications/Miller_2007_JAnimalEcol.pdf). Journal of Animal Ecology 76: 722-729.
+
+<strong>2006</strong>
 
 Miller, T.E.X., A.J. Tyre, and S.M. Louda. 2006. [Plant reproductive allocation predicts herbivore dynamics across spatial and temporal scales](/texmiller_publications/Miller_et_al_2006_AmNat.pdf). American Naturalist 168: 608-616.
