@@ -4,7 +4,7 @@ layout: "page"
 icon: fa-newspaper
 order: 4
 ---
-<strong>2020</strong>
+<strong>*2020*</strong>
 
 Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. Eco-evolutionary dynamics of range expansion. Ecology (in press)
 
