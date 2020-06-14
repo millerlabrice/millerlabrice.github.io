@@ -152,7 +152,7 @@ body {
                                 <div class="team-hover">
                                     <div class="desk">
                                         <h4>Research Interests</h4>
-                                        <p>Demography, dispersal, population dynamics, eco-evolutionary dynamics, quantitative and theoretical ecology, species interactions</p>
+                                        <p>Population dynamics, eco-evolutionary dynamics, quantitative and theoretical ecology, species interactions</p>
                                     </div>
                                     <div class="s-link">
                                         <a href="https://scholar.google.com/citations?user=50kDLlkAAAAJ&hl=en"><i class="fab fa-google"></i></a>
