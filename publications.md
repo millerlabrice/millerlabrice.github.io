@@ -8,7 +8,7 @@ __2020__
 
 Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. (2020) Eco-evolutionary dynamics of range expansion. Ecology (in press)
 
-Czachura, K. and T.E.X. Miller. (2020) [Subtle dimensions of climate change have strong demographic effects on a cactus population in extinction debt. Journal of Ecology (in press)](/texmiller_publications/Czachura_climate_demography_JEcology_ACCEPTED.pdf).
+Czachura, K. and T.E.X. Miller. (2020) [Demographic back-casting reveals that subtle dimensions of climate change have strong effects on population viability. Journal of Ecology (in press)](/texmiller_publications/Czachura_climate_demography_JEcology_ACCEPTED.pdf).
 
 Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. (2020) Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances. Tree Physiology (in press)
 
