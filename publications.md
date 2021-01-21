@@ -12,9 +12,9 @@ Evers, S.M, Knight, T.M., Inouye, D.W., Miller, T.E.X., Salguero-Gomez, R., Iler
 
 __2020__
 
-Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. (2020) [Eco-evolutionary dynamics of range expansion](/texmiller_publications/Miller et al. 2020.pdf). Ecology 101: e03139
+Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. (2020) [Eco-evolutionary dynamics of range expansion](/texmiller_publications/Miller2020Ecology.pdf). Ecology 101: e03139
 
-Czachura, K. and T.E.X. Miller. (2020) [Demographic back-casting reveals that subtle dimensions of climate change have strong effects on population viability](/texmiller_publications/Czachura and Miller 2020 JEcol.pdf). Journal of Ecology 108: 2557-2570
+Czachura, K. and T.E.X. Miller. (2020) [Demographic back-casting reveals that subtle dimensions of climate change have strong effects on population viability](/texmiller_publications/Czachura2020JEcol.pdf). Journal of Ecology 108: 2557-2570
 
 Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. (2020) [Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances](/texmiller_publications/Liu2020TP.pdf). Tree Physiology 40: 1178–1191
 
