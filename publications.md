@@ -6,17 +6,17 @@ order: 4
 ---
 __2021__
 
-Donald, M.L., Bohner, T.F., Kolis, K., Shadow, A., Rudgers, J.R., and T.E.X. Miller. (2021) [Context-dependent variability in the population prevalence and individual fitness effects of plant-fungal symbiosis](/texmiller_publications/Donald et al 2021 preprint.pdf). Journal of Ecology https://doi.org/10.1111/1365-2745.13510
+Donald, M.L., Bohner, T.F., Kolis, K., Shadow, A., Rudgers, J.R., and T.E.X. Miller. (2021) [Context-dependent variability in the population prevalence and individual fitness effects of plant-fungal symbiosis](/texmiller_publications/Donald2021preprint.pdf). Journal of Ecology https://doi.org/10.1111/1365-2745.13510
 
 Evers, S.M, Knight, T.M., Inouye, D.W., Miller, T.E.X., Salguero-Gomez, R., Iler, A.M., Compagnoni, A. (2021) Lagged and dormant-season climate better predict plant vital rates than climate during the growing season. Global Change Biology (in press)
 
 __2020__
 
-Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. (2020) [Eco-evolutionary dynamics of range expansion](/texmiller_publications/Miller_et_al_2020_Ecology.pdf). Ecology 101: e03139
+Miller, T.E.X., Angert, A. L., Brown, C.D., Lee-Yaw, J.A., Lewis, M., Lutscher, F., Marculis, N.G., Melbourne, B.A., Shaw, A.K., Szűcs, M., Tabares, O., Usui, T., Weiss-Lehman, C., Williams, J.L. (2020) [Eco-evolutionary dynamics of range expansion](/texmiller_publications/Miller et al. 2020.pdf). Ecology 101: e03139
 
-Czachura, K. and T.E.X. Miller. (2020) [Demographic back-casting reveals that subtle dimensions of climate change have strong effects on population viability] Journal of Ecology 108: 2557-2570
+Czachura, K. and T.E.X. Miller. (2020) [Demographic back-casting reveals that subtle dimensions of climate change have strong effects on population viability](/texmiller_publications/Czachura and Miller 2020 JEcol.pdf). Journal of Ecology 108: 2557-2570
 
-Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. (2020) [Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances]. Tree Physiology 40: 1178–1191
+Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. (2020) [Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances](/texmiller_publications/Liu2020TP.pdf). Tree Physiology 40: 1178–1191
 
 Gundel, P., Sun, P., Charlton, N., Young, C.A., Miller, T.E.X., Rudgers, J.A. (2020) [Folivory increases vertical transmission of fungal endophytes that deter herbivores and alter plant tolerance of herbivory](/texmiller_publications/Gundel2020AoB.pdf). Annals of Botany 125:981-991
 
