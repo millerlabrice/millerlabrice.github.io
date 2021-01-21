@@ -18,7 +18,7 @@ Czachura, K. and T.E.X. Miller. (2020) [Demographic back-casting reveals that su
 
 Liu, J., Zhang, R., Xu, X., Fowler, J.C., Miller, T.E.X., Dong, T. (2020) [Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances]. Tree Physiology 40: 1178–1191
 
-Gundel, P., Sun, P., Charlton, N., Young, C.A., Miller, T.E.X., Rudgers, J.A. (2020) [Folivory increases vertical transmission of fungal endophytes that deter herbivores and alter plant tolerance of herbivory](/texmiller_publications/Compagnoni2020MEE.pdf). Annals of Botany 125:981-991
+Gundel, P., Sun, P., Charlton, N., Young, C.A., Miller, T.E.X., Rudgers, J.A. (2020) [Folivory increases vertical transmission of fungal endophytes that deter herbivores and alter plant tolerance of herbivory](/texmiller_publications/Gundel2020AoB.pdf). Annals of Botany 125:981-991
 
 Compagnoni, A., Bibian, A.J., Ochocki, B.M., Levin, S., Zhu, K. and T.E.X. Miller. (2020) [popler: An R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network](/texmiller_publications/Compagnoni2020MEE.pdf). Methods in Ecology and Evolution 11:258-264
 
