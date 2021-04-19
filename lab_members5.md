@@ -170,28 +170,6 @@ body {
                          <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/tingfa_dong.jpg" alt="team member" class="img-responsive" width="300" height="200">
-                                </div>
-                                <div class="team-hover">
-                                    <div class="desk">
-                                        <h4>Research Interests</h4>
-                                        <p>Population ecology of dioecious plant species in the Anthropocene.</p>
-                                    </div>
-                                     <div class="s-link">
-                                        <a href="https://scholar.google.com/citations?hl=zh-CN&user=H7RzIz8AAAAJ&view_op=list_works&sortby=pubdate"><i class="fab fa-google"></i></a>
-                                           <a href="mailto:td30@rice.edu"><i class="fa fa-envelope"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Tingfa Dong</h5> 
-                                <span>Visiting Scholar</span>
-                            </div>
-                        </div>
-                        
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
                                     <img src="/assets/images/josh_fowler.jpg" alt="team member" class="img-responsive" width="225" height="200">
                                 </div>
                                 <div class="team-hover">
