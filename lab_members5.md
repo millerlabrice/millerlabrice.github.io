@@ -188,29 +188,7 @@ body {
                                 <span>Visiting Scholar</span>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="/assets/images/MDonald.jpg" alt="team member" class="img-responsive" width="300" height="200">
-                                </div>
-                                <div class="team-hover">
-                                    <div class="desk">
-                                        <h4>Research Interests</h4>
-                                        <p>Drivers of microbial symbiont prevalence and diversity within host populations, communities, and metacommunities.</p>
-                                    </div>
-                                    <div class="s-link">
-                                    	<a href="https://scholar.google.com/citations?user=RcXMO0MAAAAJ&hl=en"><i class="fab fa-google"></i></a>
-                                    	<a href="https://mdonald.github.io"><i class="fas fa-star"></i></a>
-                                        <a href="https://github.com/mdonald"><i class="fab fa-github"></i></a>
-                                        <a href="mailto:mld1@rice.edu"><i class="fa fa-envelope"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Marion Donald</h5>
-                                <span>Ph.D. Student</span>
-                            </div>
-                        </div>
+                        
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
