@@ -234,25 +234,7 @@ body {
                                 <span>Ph.D. Student</span>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="/assets/images/Jr_cropped.jpg" alt="team member" class="img-responsive" width="200" height="200">
-                                </div>
-                                <div class="team-hover">
-                                    <div class="desk">
-                                        <h4>Research Interests</h4>
-                                        <p>Squirrels</p>
-                                    </div>
-                                    <div class="s-link">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Junior</h5>
-                                <span>Best dog</span>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
 
