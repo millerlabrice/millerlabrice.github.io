@@ -190,7 +190,8 @@ body {
                                 <span>Ph.D. Student</span>
                             </div>
                         </div>
-
+                  </div>
+              </div>
 </body>
 
 
