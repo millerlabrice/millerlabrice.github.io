@@ -190,6 +190,26 @@ body {
                                 <span>Ph.D. Student</span>
                             </div>
                         </div>
+                      <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="/assets/images/ali_campbell.jpg" alt="team member" class="img-responsive" width="225" height="200">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Research Interests</h4>
+                                        <p>Symbiosis and mutualism, including the impacts of climate-induced environmental variation on interaction outcomes. I am particularly interested in how climate change may be driving outcomes of multi-species mutualisms in plant-insect and plant-microbe systems.</p>
+                                    </div>
+                                    <div class="s-link">
+                                         <a href="mailto:amc49@rice.edu"><i class="fa fa-envelope"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h5>Ali Campbell</h5>
+                                <span>Ph.D. Student</span>
+                            </div>
+                        </div>
                   </div>
               </div>
 </body>
