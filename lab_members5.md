@@ -244,11 +244,13 @@ tr:nth-child(even) {
 </style>
 </head>
 
-| Alum   |      Miller Lab       |  Current Position 
+| Alum   |             |  Current Position 
 |:----------:|:-------------:|:------:
+| <a href="https://scholar.google.com/citations?user=H7RzIz8AAAAJ&hl=zh-CN"> Tingfa Dong</a> | CSC Fellow 2019-2020 | Associate Professor, China West Normal University
+| <a href="https://mdonald.github.io"> Marion Donald</a> | Ph.D. 2020 | NSF Postdoctoral Fellow Manaaki Whenua – Landcare Research
 | Trevor Drees | Senior thesis 2019 | Ph.D. student - Shea Lab at Penn State 
 | Nakian Kim |   Senior thesis 2018   | Ph.D. student, Crop Sciences, U. Illinois 
-| <a href="http://emilylschultz.weebly.com/"> Emily Schultz</a> | Ph.D. 2018 | Postdoc - Evans Lab at U. Arizona 
+| <a href="http://emilylschultz.weebly.com/"> Emily Schultz</a> | Ph.D. 2018 | Postdoc - Shriver Lab at U. Nevada - Reno 
 | Michael Saucedo	| Lab manager 2018	| Teacher - NYC
 | Michelle Sneck	| Ph.D. 2017	| Data Scientist, USAA
 | <a href="https://bradochocki.com"> Brad Ochocki</a>	| Ph.D. 2017	| Data Scientist, Croptix
