@@ -1,7 +1,7 @@
 ---
 title: Mutualism and symbiosis
 layout: page
-published: TRUE
+published: FALSE
 ---
 
  We have several projects examing the ecological dynamics of plant-animal and plant-microbe mutualisms. 
@@ -34,6 +34,7 @@ inferences to novel climate regimes, including climate change forecasted for the
 proposed work will identify host and symbiont traits that correlate with the effects of symbionts on host
 fitness, genetic diversity, and coexistence, thus generalizing results beyond the focal taxa.
 
+We also study ant-plant defensive mutualisms
 <img style="float: right; margin: 0px 0px 0px 10px;" src="/assets/images/ants_cholla.jpg" width="413.75" height="374.5" alt="L. apiculatum feeding on C. imbricata extra-floral nectar"  /> 
 
 
