@@ -34,7 +34,7 @@ inferences to novel climate regimes, including climate change forecasted for the
 proposed work will identify host and symbiont traits that correlate with the effects of symbionts on host
 fitness, genetic diversity, and coexistence, thus generalizing results beyond the focal taxa.
 
-We also study ant-plant defensive mutualisms
+We also study ant-plant defensive mutualisms and the drivers and consequences of partner diversity in ant-plant systems. Much of this work is based in the tree cholla cactus system, in which we have been tracking ant associations with the extrafloral nectar-bearing plant. 
 <img style="float: right; margin: 0px 0px 0px 10px;" src="/assets/images/ants_cholla.jpg" width="413.75" height="374.5" alt="L. apiculatum feeding on C. imbricata extra-floral nectar"  /> 
 
 
