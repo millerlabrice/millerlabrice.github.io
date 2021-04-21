@@ -193,7 +193,7 @@ body {
                       <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="/assets/images/ali_campbell.jpg" alt="team member" class="img-responsive" width="225" height="200">
+                                    <img src="/assets/images/ali_campbell.jpg" alt="team member" class="img-responsive">
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
