@@ -5,6 +5,7 @@ icon: fa-newspaper
 order: 4
 ---
 __2021__
+
 Lynn, J., Miller, T.E.X., and J.A. Rudgers. (2021) Mammalian herbivores restrict the altitudinal range limits of alpine plants. Ecology Letters (in press)
 
 Donald, M.L., Bohner, T.F., Kolis, K., Shadow, A., Rudgers, J.R., and T.E.X. Miller. (2021) [Context-dependent variability in the population prevalence and individual fitness effects of plant-fungal symbiosis](/texmiller_publications/Donald2021preprint.pdf). Journal of Ecology 109: 847-859
