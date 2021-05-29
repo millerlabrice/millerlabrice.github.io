@@ -2,6 +2,8 @@
 title: Publications
 layout: "page"
 icon: fa-newspaper
+cover-photo: assets/images/bluebonnets.JPG
+cover-photo-alt: Texas bluebonnets
 order: 4
 ---
 __2021__
