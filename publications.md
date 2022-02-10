@@ -6,11 +6,21 @@ cover-photo: assets/images/bluebonnets.JPG
 cover-photo-alt: Texas bluebonnets
 order: 4
 ---
+__2022__
+
+Miller, T.E.X. and A. Compagnoni. Two-sex demography, sexual niche differentiation, and the geographic range limits of Texas bluegrass (Poa arachnifera). American Naturalist (in press)
+
+Ellner, S.P., Adler, P.B., Childs, D., Hooker, G., Miller, T.E.X., Rees, M. A critical comparison of integral projection and matrix projection models for demographic analysis: Comment. Ecology (in press)
+
+Donald, M.L. and T.E.X. Miller. Strong pairwise ant-plant mutualism has limited spillover effects on an ant community. Ecology and Evolution (in press)
+
 __2021__
 
-Lynn, J., Miller, T.E.X., and J.A. Rudgers. (2021) Mammalian herbivores restrict the altitudinal range limits of alpine plants. Ecology Letters (in press)
+Dong, T., Zhang, R., Liu, J., Fowler, J.C., Miller, T.E.X., Xu, X. [Warming alters sex-specific responses in leaf defense against insect herbivory in Populus cathayana](/texmiller_publications/Dong2021.pdf).. Environmental and Experimental Botany 104557
 
-Donald, M.L., Bohner, T.F., Kolis, K., Shadow, A., Rudgers, J.R., and T.E.X. Miller. (2021) [Context-dependent variability in the population prevalence and individual fitness effects of plant-fungal symbiosis](/texmiller_publications/Donald2021preprint.pdf). Journal of Ecology 109: 847-859
+Lynn, J., Miller, T.E.X., and J.A. Rudgers. (2021) [Mammalian herbivores restrict the altitudinal range limits of alpine plants](/texmiller_publications/Lynn2021.pdf). Ecology Letters 24:1930-1942
+
+Donald, M.L., Bohner, T.F., Kolis, K., Shadow, A., Rudgers, J.R., and T.E.X. Miller. (2021) [Context-dependent variability in the population prevalence and individual fitness effects of plant-fungal symbiosis](/texmiller_publications/Donald2021.pdf). Journal of Ecology 109: 847-859
 
 Evers, S.M, Knight, T.M., Inouye, D.W., Miller, T.E.X., Salguero-Gomez, R., Iler, A.M., Compagnoni, A. (2021) Lagged and dormant-season climate better predict plant vital rates than climate during the growing season. Global Change Biology 27: 1927-1941
 
