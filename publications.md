@@ -22,7 +22,7 @@ Lynn, J., Miller, T.E.X., and J.A. Rudgers. (2021) [Mammalian herbivores restric
 
 Donald, M.L., Bohner, T.F., Kolis, K., Shadow, A., Rudgers, J.R., and T.E.X. Miller. (2021) [Context-dependent variability in the population prevalence and individual fitness effects of plant-fungal symbiosis](/texmiller_publications/Donald2021.pdf). Journal of Ecology 109: 847-859
 
-Evers, S.M, Knight, T.M., Inouye, D.W., Miller, T.E.X., Salguero-Gomez, R., Iler, A.M., Compagnoni, A. (2021) Lagged and dormant-season climate better predict plant vital rates than climate during the growing season. Global Change Biology 27: 1927-1941
+Evers, S.M, Knight, T.M., Inouye, D.W., Miller, T.E.X., Salguero-Gomez, R., Iler, A.M., Compagnoni, A. (2021) [Lagged and dormant-season climate better predict plant vital rates than climate during the growing season](/texmiller_publications/Evers2021.pdf). Global Change Biology 27: 1927-1941
 
 __2020__
 
